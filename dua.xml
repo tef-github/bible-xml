@@ -5,6 +5,7 @@
 <hisnulmuslim>
   <group id="1">
     <title language="en">Upon Waking Up</title>
+    <title language="am">ከእንቅልፍ ሲነሱ</title>
     <dua id="1">
       <arabic>اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ</arabic>
 
@@ -42,6 +43,7 @@
   </group>
   <group id="2">
     <title language="en">Supplication when wearing clothes</title>
+    <title language="am">ልብስ ሲለብስ የሚተላለፍ ዱዓ</title>
     <dua id="5">
       <arabic>اَلحَمدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَلَا قُوَّةٍ</arabic>
       <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and
@@ -52,6 +54,7 @@
   </group>
   <group id="3">
     <title language="en">Supplication when wearing new clothes</title>
+    <title language="am">አዲስ ልብስ ሲለብስ የሚተላለፍ ዱዓ</title>
     <dua id="6">
       <arabic>اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا
         صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</arabic>
@@ -65,6 +68,7 @@
   </group>
   <group id="4">
     <title language="en">Supplication said to someone wearing new clothes</title>
+    <title language="am">አዲስ ልብስ ለበሰ ሰው የሚተላለፍ ዱዓ</title>
     <dua id="7">
       <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
       <translation language="en">May you wear it out and Allāh replace it (with
@@ -81,6 +85,7 @@
   </group>
   <group id="5">
     <title language="en">Before Undressing</title>
+    <title language="am">ልብስ ከመውሰድ በፊት</title>
     <dua id="9">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allah.</translation>
@@ -90,6 +95,7 @@
   </group>
   <group id="6">
     <title language="en">Before entering the toilet</title>
+    <title language="am">ወደ መጸዳጃ ቤት ለመግባት በፊት</title>
     <dua id="10">
       <arabic>(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</arabic>
       <translation language="en">(In the name of Allāh). O Allāh, I take refuge with you from all
@@ -101,6 +107,7 @@
   </group>
   <group id="7">
     <title language="en">After leaving the toilet</title>
+    <title language="am">መጸዳጃ ቤቱን ከመተው በኋላ</title>
     <dua id="11">
       <arabic>غُفْرَانَكَ</arabic>
       <translation language="en">I ask You (Allāh) for forgiveness.</translation>
@@ -111,6 +118,7 @@
   </group>
   <group id="8">
     <title language="en">When starting ablution (wuḍū)</title>
+    <title language="am">ውዱእ ሲጀምር</title>
     <dua id="12">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allāh.</translation>
@@ -120,6 +128,7 @@
   </group>
   <group id="9">
     <title language="en">Upon completing ablution (Wuḍū)</title>
+    <title language="am">ውዱእ ከተጠናቀቀ በኋላ</title>
     <dua id="13">
       <arabic>أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ
         مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
@@ -146,6 +155,7 @@
   </group>
   <group id="10">
     <title language="en">When leaving home</title>
+    <title language="am">ከቤት ሲወጣ</title>
     <dua id="16">
       <arabic>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا
         بِاللهِ</arabic>
@@ -167,6 +177,7 @@
   </group>
   <group id="11">
     <title language="en">Upon entering home</title>
+    <title language="am">ወደ ቤት ሲገባ</title>
     <dua id="18">
       <arabic>بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا
         تَوَكَّلْنَا</arabic>
@@ -178,6 +189,7 @@
   </group>
   <group id="12">
     <title language="en">Supplication when going to the Masjid</title>
+    <title language="am">ወደ መስጊድ ሲሄድ</title>
     <dua id="19">
       <arabic>اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي
         نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ
@@ -197,6 +209,7 @@
   </group>
   <group id="13">
     <title language="en">Upon entering the Masjid</title>
+    <title language="am">ወደ መስጊድ ሲገባ</title>
     <dua id="20">
       <arabic>(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup>[1]</sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ،
         وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ
@@ -220,6 +233,7 @@
   </group>
   <group id="14">
     <title language="en">Upon leaving the Masjid</title>
+    <title language="am">ከመስጊድ ሲወጣ</title>
     <dua id="21">
       <arabic>(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup>[1]</sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ
         وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي
@@ -235,6 +249,7 @@
   </group>
   <group id="15">
     <title language="en">Supplications related to the athān</title>
+    <title language="am">ከአዛን ጋር የተያያዙ ዱዓዎች</title>
     <dua id="22">
       <arabic>يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ
         عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</arabic>
@@ -284,6 +299,7 @@
   </group>
   <group id="16">
     <title language="en">Supplications at the start of the Ṣalāh (prayer)</title>
+    <title language="am">ሶላት በመጀመሪያው የሚነበቡ ዱዓዎች</title>
     <dua id="27">
       <arabic>اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ
         وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ
@@ -380,6 +396,7 @@
   </group>
   <group id="17">
     <title language="en">While bowing in Ṣalāh (Rukūʿ)</title>
+    <title language="am">በሩኩእ ጊዜ</title>
     <dua id="33">
       <arabic>سُبْحَانَ رَبَّيَ الْعَظِيمِ (ثلاثا)</arabic>
       <translation>How perfect my Lord is, The Supreme. (Three times)</translation>
@@ -417,6 +434,7 @@
   </group>
   <group id="18">
     <title language="en">Upon rising from Rukūʿ</title>
+    <title language="am">ከሩኩእ ሲነሳ</title>
     <dua id="38">
       <arabic>سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.</arabic>
       <translation>May Allāh answer he who praises Him.</translation>
@@ -443,6 +461,7 @@
   </group>
   <group id="19">
     <title language="en">Supplications while in Sujūd (prostation in Ṣalāh)</title>
+    <title language="am">በሱጁድ ጊዜ የሚነበቡ ዱዓዎች</title>
     <dua id="41">
       <arabic>سُبْحَانَ رَبَّيَ الأَعْلَى (ثلاثا)</arabic>
       <translation>How Perfect my Lord is, The Most High. (Three times)</translation>
@@ -492,6 +511,7 @@
   </group>
   <group id="20">
     <title language="en">Supplications between sajdatayn (two prostrations)</title>
+    <title language="am">በሁለቱ ሱጁዶች መካከል</title>
     
     <dua id="47">
       <arabic>رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي</arabic>
@@ -509,6 +529,7 @@
   </group>
   <group id="21">
     <title language="en">Supplication for Sajdah (prostration) due to recitation of Qurʾān</title>
+    <title language="am">በቁርአን አንባቢ የሚደረግ የሱጁድ ዱዓ</title>
     
     <dua id="49">
       <arabic>سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ
@@ -532,6 +553,7 @@
   </group>
   <group id="22">
     <title language="en">Duʿā of Tashahhud</title>
+    <title language="am">የታሻሁድ ዱዓ</title>
     <dua id="51">
       <arabic>التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
       <translation>Al-Tahiyyāt is for Allāh. All acts of worship and good deeds are for Him. Peace and the mercy and blessings of Allāh be upon you O Prophet. Peace be upon us and all of Allāh's righteous servants. I bear witness that none has the right to be worshipped except Allāh and I bear witness that Muḥammad is His slave and Messenger.</translation>
@@ -540,6 +562,7 @@
   </group>
   <group id="23">
     <title language="en">Duʿā for the Prophet ﷺ after the Tashahhud</title>
+    <title language="am">ከታሻሁድ በኋላ በነብዩ ላይ የሚተላለፍ ዱዓ</title>
     <dua id="52">
       <arabic>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</arabic>
       <translation>O Allāh, send prayers upon Muḥammad and the followers of Muḥammad, just as You sent prayers upon Ibrāhim and upon the followers of Ibrāhim. Verily, You are full of praise and majesty. O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You sent blessings upon Ibrāhim and upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
@@ -554,6 +577,7 @@
   <group id="24">
     <title language="en">Supplication to be said after the last Tashahhud and before the
       Taslīm</title>
+    <title language="am">የመጨረሻ ታሻሁድ በኋላና ታስሊም በፊት የሚተላለፈው</title>
     <dua id="54">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ</arabic>
       <translation>O Allāh, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death, and from the evil affliction of al-Masīḥ al-Dajjāl.</translation>
@@ -612,337 +636,6 @@
   </group>
   <group id="25">
     <title language="en">Remembrance after the Taslīm</title>
-  </group>
-  <group id="26">
-    <title language="en">Supplication for seeking guidance in forming a decision or choosing the
-      proper course, etc... (al-Istikhārah)</title>
-  </group>
-  <group id="27">
-    <title language="en">Remembrance said in the morning and evening</title>
-  </group>
-  <group id="28">
-    <title language="en">Remembrance before sleeping</title>
-  </group>
-  <group id="29">
-    <title language="en">Supplication when turning over during the night</title>
-  </group>
-  <group id="30">
-    <title language="en">Upon experiencing unrest, fear, apprehensiveness, and the like during
-      sleep</title>
-  </group>
-  <group id="31">
-    <title language="en">Upon seeing a bad dream</title>
-  </group>
-  <group id="32">
-    <title language="en">Duʿā Qunūt al-Witr</title>
-  </group>
-  <group id="33">
-    <title language="en">Remembrance immediately after the Taslīm of the Witr Ṣalāh</title>
-  </group>
-  <group id="34">
-    <title language="en">Supplication for anxiety and sorrow</title>
-  </group>
-  <group id="35">
-    <title language="en">Supplication for one in distress</title>
-  </group>
-  <group id="36">
-    <title language="en">Upon encountering an enemy or those of authority</title>
-  </group>
-  <group id="37">
-    <title language="en">For fear of the oppression of rulers</title>
-  </group>
-  <group id="38">
-    <title language="en">Against enemies</title>
-  </group>
-  <group id="39">
-    <title language="en">When afraid of a group of people</title>
-  </group>
-  <group id="40">
-    <title language="en">Supplication for one afflicted with doubt in his faith</title>
-  </group>
-  <group id="41">
-    <title language="en">Settling a debt</title>
-  </group>
-  <group id="42">
-    <title language="en">Supplication for one afflicted by whispering in prayer or
-      recitation</title>
-  </group>
-  <group id="43">
-    <title language="en">Supplication for one whose affairs have become difficult</title>
-  </group>
-  <group id="44">
-    <title language="en">Upon committing a sin</title>
-  </group>
-  <group id="45">
-    <title language="en">Supplications for expelling the devil and his whisperings</title>
-  </group>
-  <group id="46">
-    <title language="en">Supplication when stricken with a mishap or overtaken by an affair</title>
-  </group>
-  <group id="47">
-    <title language="en">Congratulations on the occasion of a birth</title>
-  </group>
-  <group id="48">
-    <title language="en">Placing children under Allah's protection</title>
-  </group>
-  <group id="49">
-    <title language="en">When visiting the sick</title>
-  </group>
-  <group id="50">
-    <title language="en">Excellence of visiting the sick</title>
-  </group>
-  <group id="51">
-    <title language="en">Supplication of the sick who have renounced all hope of life</title>
-  </group>
-  <group id="52">
-    <title language="en">Instruction for one nearing death</title>
-  </group>
-  <group id="53">
-    <title language="en">Supplication for one afflicted by a calamity</title>
-  </group>
-  <group id="54">
-    <title language="en">When closing the eyes of the deceased</title>
-  </group>
-  <group id="55">
-    <title language="en">Supplication for the deceased at the funeral prayer</title>
-  </group>
-  <group id="56">
-    <title language="en">Supplication for the deceased child at the funeral prayer</title>
-  </group>
-  <group id="57">
-    <title language="en">Condolence</title>
-  </group>
-  <group id="58">
-    <title language="en">Placing the deceased in the grave</title>
-  </group>
-  <group id="59">
-    <title language="en">After burying the deceased</title>
-  </group>
-  <group id="60">
-    <title language="en">Visiting the graves</title>
-  </group>
-  <group id="61">
-    <title language="en">Supplication said during a wind storm</title>
-  </group>
-  <group id="62">
-    <title language="en">Supplication upon hearing thunder</title>
-  </group>
-  <group id="63">
-    <title language="en">Supplication for rain</title>
-  </group>
-  <group id="64">
-    <title language="en">Supplication when it's raining</title>
-  </group>
-  <group id="65">
-    <title language="en">Supplication after rain</title>
-  </group>
-  <group id="66">
-    <title language="en">Asking for skies</title>
-  </group>
-  <group id="67">
-    <title language="en">Upon sighting the crescent moon</title>
-  </group>
-  <group id="68">
-    <title language="en">Upon breaking fast</title>
-  </group>
-  <group id="69">
-    <title language="en">Supplication before eating</title>
-  </group>
-  <group id="70">
-    <title language="en">Upon completion of a meal</title>
-  </group>
-  <group id="71">
-    <title language="en">Supplication of the guest for the host</title>
-  </group>
-  <group id="72">
-    <title language="en">Supplication said to one offering a drink or to one who intended to do
-      that</title>
-  </group>
-  <group id="73">
-    <title language="en">Supplication said when breaking fast in someone's home</title>
-  </group>
-  <group id="74">
-    <title language="en">Supplication said by one fasting when presented with food and does not
-      break his fast</title>
-  </group>
-  <group id="75">
-    <title language="en">If insulted while fasting</title>
-  </group>
-  <group id="76">
-    <title language="en">Supplication said upon seeing the early or premature fruit</title>
-  </group>
-  <group id="77">
-    <title language="en">Supplication said upon sneezing</title>
-  </group>
-  <group id="78">
-    <title language="en">What to say to a kāfir who praises Allāh after sneezing</title>
-  </group>
-  <group id="79">
-    <title language="en">Supplication said to the newlywed</title>
-  </group>
-  <group id="80">
-    <title language="en">The groom's supplication on the wedding night or when buying an
-      animal</title>
-  </group>
-  <group id="81">
-    <title language="en">Supplication before sexual intercourse</title>
-  </group>
-  <group id="82">
-    <title language="en">When angry</title>
-  </group>
-  <group id="83">
-    <title language="en">Supplication said upon seeing someone in trial or tribulation</title>
-  </group>
-  <group id="84">
-    <title language="en">Remembrance said at a sitting, gathering, etc...</title>
-  </group>
-  <group id="85">
-    <title language="en">Supplication for the expiation of sins said at the conclusion of a sitting,
-      gathering, etc...</title>
-  </group>
-  <group id="86">
-    <title language="en">Replying to a supplication of forgiveness</title>
-  </group>
-  <group id="87">
-    <title language="en">Supplication said to one who does you a favor</title>
-  </group>
-  <group id="88">
-    <title language="en">Protection from the Dajjāl</title>
-  </group>
-  <group id="89">
-    <title language="en">Supplication said to one who pronounces their love for you for Allāh's
-      sake</title>
-  </group>
-  <group id="90">
-    <title language="en">Supplication said to one who has offered you some of his wealth</title>
-  </group>
-  <group id="91">
-    <title language="en">Supplication said to the debtor when his debt is settled</title>
-  </group>
-  <group id="92">
-    <title language="en">Supplication for fear of Shirk</title>
-  </group>
-  <group id="93">
-    <title language="en">Returning a supplication after having bestowed a gift or charity upon
-      someone</title>
-  </group>
-  <group id="94">
-    <title language="en">Forbiddance of ascribing things to omens</title>
-  </group>
-  <group id="95">
-    <title language="en">Supplication said when mounting an animal or any means of transport</title>
-  </group>
-  <group id="96">
-    <title language="en">Supplication for travel</title>
-  </group>
-  <group id="97">
-    <title language="en">Supplication upon entering a town, village, etc...</title>
-  </group>
-  <group id="98">
-    <title language="en">When entering a market</title>
-  </group>
-  <group id="99">
-    <title language="en">Supplication for when the mounted animal or means of transport
-      stumbles</title>
-  </group>
-  <group id="100">
-    <title language="en">Supplication of the traveler for the resident</title>
-  </group>
-  <group id="101">
-    <title language="en">Supplication of the resident for the traveler</title>
-  </group>
-  <group id="102">
-    <title language="en">Remembrance while ascending and descending</title>
-  </group>
-  <group id="103">
-    <title language="en">Prayer of the traveler as dawn approaches</title>
-  </group>
-  <group id="104">
-    <title language="en">Stopping or lodging somewhere</title>
-  </group>
-  <group id="105">
-    <title language="en">When returning from travel</title>
-  </group>
-  <group id="106">
-    <title language="en">Supplication after receiving good or bad news</title>
-  </group>
-  <group id="107">
-    <title language="en">Excellence of sending prayers upon the Prophet ()</title>
-  </group>
-  <group id="108">
-    <title language="en">Excellence of spreading the Islamic greeting</title>
-  </group>
-  <group id="109">
-    <title language="en">How to reply to the Salām of a Kāfir</title>
-  </group>
-  <group id="110">
-    <title language="en">Supplication after hearing a rooster crow or a donkey bray</title>
-  </group>
-  <group id="111">
-    <title language="en">Supplication upon hearing the barking of dogs at night</title>
-  </group>
-  <group id="112">
-    <title language="en">Supplication said for one you have insulted</title>
-  </group>
-  <group id="113">
-    <title language="en">The etiquette of praising a fellow Muslim</title>
-  </group>
-  <group id="114">
-    <title language="en">For the one who has been praised</title>
-  </group>
-  <group id="115">
-    <title language="en">The Talbiyah for the one doing Ḥajj or ʿUmrah</title>
-  </group>
-  <group id="116">
-    <title language="en">The Takbīr when passing the Black Stone</title>
-  </group>
-  <group id="117">
-    <title language="en">Between the Yemenī corner and the Black Stone</title>
-  </group>
-  <group id="118">
-    <title language="en">When at Mount Safa and Mount Marwa</title>
-  </group>
-  <group id="119">
-    <title language="en">On the day of ʿArafah</title>
-  </group>
-  <group id="120">
-    <title language="en">At the Sacred Site (al-Mashar al-Ḥaram) [CHECK #238]</title>
-  </group>
-  <group id="121">
-    <title language="en">Supplication for throwing a pebble at the Jamarāt</title>
-  </group>
-  <group id="122">
-    <title language="en">What to say at times of amazement and delight</title>
-  </group>
-  <group id="123">
-    <title language="en">What to do upon receiving pleasant news</title>
-  </group>
-  <group id="124">
-    <title language="en">What to say and do when feeling some pain in the body</title>
-  </group>
-  <group id="125">
-    <title language="en">What do say when in fear of inflicting something or someone with evil
-      eye</title>
-  </group>
-  <group id="126">
-    <title language="en">What to say when startled</title>
-  </group>
-  <group id="127">
-    <title language="en">When slaughtering or offering a sacrifice</title>
-  </group>
-  <group id="128">
-    <title language="en">What is said to ward off deception of the obstinate Shayṭāns</title>
-  </group>
-  <group id="129">
-    <title language="en">Seeking forgiveness and repentance</title>
-  </group>
-  <group id="130">
-    <title language="en">Excellence of al-Tasbih, al-Tahmid, al-Tahlil, and al-Takbīr</title>
-  </group>
-  <group id="131">
-    <title language="en">How the Prophet () made Tasbīh [#266 ʿAmr/More detail, maybe?]</title>
-  </group>
-  <group id="132">
-    <title language="en">General and beneficial rules</title>
+    <title language="am">ታስሊም ከተባለ በኋላ ዝክር</title>
   </group>
 </hisnulmuslim>
