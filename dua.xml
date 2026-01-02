@@ -43,7 +43,7 @@
   </group>
   <group id="2">
     <title language="en">Supplication when wearing clothes</title>
-    <title language="am">ልብስ ሲለብስ የሚተላለፍ ዱዓ</title>
+    <title language="am">ልብስ ሲለበስ የሚተላለፍ ዱዓ</title>
     <dua id="5">
       <arabic>اَلحَمدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَلَا قُوَّةٍ</arabic>
       <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and
@@ -54,7 +54,7 @@
   </group>
   <group id="3">
     <title language="en">Supplication when wearing new clothes</title>
-    <title language="am">አዲስ ልብስ ሲለብስ የሚተላለፍ ዱዓ</title>
+    <title language="am">አዲስ ልብስ ሲለበስ የሚተላለፍ ዱዓ</title>
     <dua id="6">
       <arabic>اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا
         صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</arabic>
@@ -68,7 +68,7 @@
   </group>
   <group id="4">
     <title language="en">Supplication said to someone wearing new clothes</title>
-    <title language="am">አዲስ ልብስ ለበሰ ሰው የሚተላለፍ ዱዓ</title>
+    <title language="am">አዲስ ልብስ ለለበሰ ሰው የሚተላለፍ ዱዓ</title>
     <dua id="7">
       <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
       <translation language="en">May you wear it out and Allāh replace it (with
@@ -85,7 +85,7 @@
   </group>
   <group id="5">
     <title language="en">Before Undressing</title>
-    <title language="am">ልብስ ከመውሰድ በፊት</title>
+    <title language="am">ልብስ ከማውለቅ በፊት</title>
     <dua id="9">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allah.</translation>
@@ -95,7 +95,7 @@
   </group>
   <group id="6">
     <title language="en">Before entering the toilet</title>
-    <title language="am">ወደ መጸዳጃ ቤት ለመግባት በፊት</title>
+    <title language="am">ወደ መጸዳጃ ቤት ከመግባት በፊት</title>
     <dua id="10">
       <arabic>(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</arabic>
       <translation language="en">(In the name of Allāh). O Allāh, I take refuge with you from all
@@ -107,7 +107,7 @@
   </group>
   <group id="7">
     <title language="en">After leaving the toilet</title>
-    <title language="am">መጸዳጃ ቤቱን ከመተው በኋላ</title>
+    <title language="am">ከመጸዳጃ ቤት ከወጡ በኋላ</title>
     <dua id="11">
       <arabic>غُفْرَانَكَ</arabic>
       <translation language="en">I ask You (Allāh) for forgiveness.</translation>
@@ -189,7 +189,7 @@
   </group>
   <group id="12">
     <title language="en">Supplication when going to the Masjid</title>
-    <title language="am">ወደ መስጊድ ሲሄድ</title>
+    <title language="am">ወደ መስጊድ ሲሄዱ</title>
     <dua id="19">
       <arabic>اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي
         نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ
