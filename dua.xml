@@ -11,6 +11,7 @@
 
       <translation language="en"> Praise is to Allāh Who gives us life after He has caused us to die
         and to Him is the return. </translation>
+      <translation language="am">አላህን እናመሰግናለን፤ ከሞታችን በኋላ ሕይወት ሰጠን፣ ወደ እርሱም እንመለሳለን።</translation>
 
       <reference language="en"> Al-Bukhārī (#6312), see <em>Fatḥ al-Bārī</em> (11/113), and Muslim
         (#2711, 4/2083). </reference>
@@ -24,6 +25,7 @@
         Mighty. My Lord, forgive me. (Whoever says this will be forgiven, and if he supplicates to
         Allāh, his prayer will be answered; if he performs ablution and prays, his prayer will be
         accepted.)</translation>
+      <translation language="am">ለመምሰግን የሚገባ አላህ ብቻ ነው፣ አጋር የለውም፤ መንግሥት ሁሉ የእርሱ ነው፣ ምስጋናም ሁሉ፣ በሁሉም ይችላል። አላህ ክብር ይገባዋል፣ አላህን እናመሰግናለን፣ ለመምሰግን የሚገባ አላህ ብቻ ነው፣ አላህ ከፍ ያለ ነው። ኀይልና ጉልበት ከአላህ በቀር የለም፣ ከፍ ያለና ታላቁ። ጌታዬ ይቅር በልልኝ።</translation>
       <reference language="en">Al-Bukhārī (#1154), see <em>Fatḥ al-Bārī</em> (3/39). The wording is
         of Ibn Mājah (#3878), also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/335).</reference>
     </dua>
@@ -31,12 +33,14 @@
       <arabic>الحَمدُ للهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ</arabic>
       <translation language="en">Praise is to Allāh Who gave strength to my body, He returned my
         soul to me and permitted me to remember Him.</translation>
+      <translation language="am">አላህን እናመሰግናለን፤ ለሰውነቴ ጤና ሰጠ፣ ነፍሴን መልሶ ሰጠኝ፣ በእርሱም መታሰብ ፈቀደልኝ።</translation>
       <reference language="en">Al-Tirmidhī (#3401, 5/473), also see <em>Ṣaḥīḥ Al-Tirmidhī</em>
         (3/144).</reference>
     </dua>
     <dua id="4">
       <arabic>يقرأ سورة آل عمران ٣: ١٩٠-٢٠٠</arabic>
       <translation language="en">Recite Sūrah Āl ʿImrān (3:190--200).</translation>
+      <translation language="am">ሱረቱ አል ኢምራን (3:190-200) አንብብ።</translation>
       <reference language="en">Al-Bukhārī (#4572), see <em>Fatḥ al-Bārī</em> (8/237) and Muslim
         (#763, 1/530).</reference>
     </dua>
@@ -48,6 +52,7 @@
       <arabic>اَلحَمدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَلَا قُوَّةٍ</arabic>
       <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and
         provided it for me, though I was powerless myself and incapable.</translation>
+      <translation language="am">ይህን ልብስ አልብሶኝና በራሴ ኃይል ካልሆነ በስተቀር ይህን አድርጎልኝ አላህን እመሰግናለሁ።</translation>
       <reference language="en">Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn
         Mājah (#3285). Also see <em>Irwāʾ al-Ghalīl</em> (7/47).</reference>
     </dua>
@@ -61,6 +66,7 @@
       <translation language="en">O Allāh, for You is all praise, You have clothed me with it (i.e.
         the garment), I ask You for the good of it and the good for which it was made, and I seek
         refuge with You from the evil of it and the evil for which it was made.</translation>
+      <translation language="am">አላህ ሆይ፣ ምስጋና ሁሉ የአንተ ነው፤ ይህን ልብስ አልብሶኛልህ፤ የእርሱን በረከትና ስለተሠራለት ያለውን በረከት እጠይቃለሁ፣ ከእርሱ ክፉና ስለተሠራለት ከሚመጣው ክፉ ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference language="en">Abū Dāwud (#4020) and al-Tirmidhī (#1767) and al-Baghawī. The wording
         is from Abū Dāwud. Also see <em>Mukhtaṣar Shamāʾil al-Tirmidhī</em> by Al-Albānī (p.\
         47).</reference>
@@ -73,12 +79,14 @@
       <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
       <translation language="en">May you wear it out and Allāh replace it (with
         another).</translation>
+      <translation language="am">እስክታጠፍበት አላህ ሌላ ይተካልልህ።</translation>
       <reference language="en">Abū Dāwud (#4020, 4/41). Also see <em>Ṣaḥīḥ Abī Dāwud</em>
         (2/760).</reference>
     </dua>
     <dua id="8">
       <arabic>إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً</arabic>
       <translation language="en">Wear anew, live commendably and die a martyr.</translation>
+      <translation language="am">አዲስ ልብስ ልበስ፣ በተመሰገነ ሁኔታ ኑር፣ እንደ አርበኛ ሞት።</translation>
       <reference language="en">Ibn Mājah (#3558, 2/1178) and al-Baghawī (12/41). Also see <em>Ṣaḥīḥ
           Ibn Mājah</em> (2/275).</reference>
     </dua>
@@ -89,6 +97,7 @@
     <dua id="9">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allah.</translation>
+      <translation language="am">በአላህ ስም።</translation>
       <reference language="en">Al-Tirmidhī (#606, 2/505) and <em>Sahīh al-Jāmiʿ</em> (#3210, 3/203).
         Also see <em>Irwāʾ al-Ghalīl</em> (#50).</reference>
     </dua>
@@ -100,6 +109,7 @@
       <arabic>(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</arabic>
       <translation language="en">(In the name of Allāh). O Allāh, I take refuge with you from all
         evil and evil-doers.</translation>
+      <translation language="am">(በአላህ ስም) አላህ ሆይ፣ ከሁሉም ክፉና ክፉ ሰዎች ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference language="en">Al-Bukhārī (#142, 1/45) and Muslim (#375, 1/283). The narration with
         the extension "In the name of Allāh" has been collected by Saʿīd bin Manṣūr, see <em>Fatḥ
           al-Bārī</em> (1/244).</reference>
@@ -111,6 +121,7 @@
     <dua id="11">
       <arabic>غُفْرَانَكَ</arabic>
       <translation language="en">I ask You (Allāh) for forgiveness.</translation>
+      <translation language="am">አላህ ሆይ፣ ይቅርታህን እጠይቃለሁ።</translation>
       <reference language="en">Al-Tirmidhī (#7), Abū Dāwud (#30), Ibn Mājah (#300), and al-Nasāʾī in
           <em>ʿAmal al-Yawm wa al-Laylah</em> (#79). Also see the <em>takhrīj</em> of <em>Zād
           al-Maʿād</em> (2/386).</reference>
@@ -122,6 +133,7 @@
     <dua id="12">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allāh.</translation>
+      <translation language="am">በአላህ ስም።</translation>
       <reference language="en">Abū Dāwud (#101), Ibn Mājah (#399) and Aḥmad (2/418). Also see
           <em>Irwāʾ al-Ghalīl</em> (1/122).</reference>
     </dua>
@@ -132,23 +144,26 @@
     <dua id="13">
       <arabic>أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ
         مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
-      <translation>I bear witness that none has the right to be worshipped except Allāh, Alone,
+      <translation language="en">I bear witness that none has the right to be worshipped except Allāh, Alone,
         without partner, and I bear witness that Muḥammad is His slave and Messenger.</translation>
+      <translation language="am">አላህ ብቻ እንደሚገባ ለመምሰግን የሚገባው አምላክ እንደሆነ አመሰክራለሁ፣ አንዱም አጋር የለውም፤ ሙሐመድም ባሪያውና መልእክተኛው መሆኑን አመሰክራለሁ።</translation>
       <reference>Muslim (#234, 1/209).</reference>
     </dua>
     <dua id="14">
       <arabic>اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ
         الْمُتَطَهِّرِينَ</arabic>
-      <translation>O Allāh, make me of those who return to You often in repentance and make me of
+      <translation language="en">O Allāh, make me of those who return to You often in repentance and make me of
         those who remain clean and pure.</translation>
+      <translation language="am">አላህ ሆይ፣ በተደጋጋሚ ወደ አንተ የሚመለሱ ከሚመልሱት አድርገኝ፤ ሁልጊዜ ንጹሕና የሚቆዩት ከሚሆኑትም አድርገኝ።</translation>
       <reference>Al-Tirmidhī (#55, 1/78). Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/18).</reference>
     </dua>
     <dua id="15">
       <arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا أَنْتَ،
         أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيكَ</arabic>
-      <translation>How perfect You are O Allāh, and I praise You, I bear witness that none has the
+      <translation language="en">How perfect You are O Allāh, and I praise You, I bear witness that none has the
         right to be worshipped except You, I seek Your forgiveness and turn in repentance to
         You.</translation>
+      <translation language="am">አላህ ሆይ፣ ፍጹም ነህ እና አመሰግንሃለሁ፤ ለመምሰግን የሚገባ አንተ ብቻ እንደሆንህ አመሰክራለሁ፤ ይቅርታህን እጠይቃለሁና ወደ አንተ ንስሓ እመለሳለሁ።</translation>
       <reference>Al-Nasāʾī in <em>ʿAmal al-Yawm wa al-Laylah</em> (#81, p.\ 173). Also see <em>Irwāʾ
           al-Ghalīl</em> (3/94).</reference>
     </dua>
@@ -159,17 +174,19 @@
     <dua id="16">
       <arabic>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا
         بِاللهِ</arabic>
-      <translation>In the name of Allāh, I place my trust in Allāh, and there is no might nor power
+      <translation language="en">In the name of Allāh, I place my trust in Allāh, and there is no might nor power
         except with Allāh.</translation>
+      <translation language="am">በአላህ ስም፣ በአላህ ተስፋ አድርጌአለሁ፣ ኀይልና ጉልበት ከአላህ ብቻ በቀር የለም።</translation>
       <reference>Abū Dāwud (#5094, 4/325) and al-Tirmidhī (#3427, 5/490). See <em>Ṣaḥīḥ
           al-Tirmidhī</em> (3/151).</reference>
     </dua>
     <dua id="17">
       <arabic>اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ
         أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ</arabic>
-      <translation>O Allāh, I take refuge with You lest I should stray or be led astray, or slip or
+      <translation language="en">O Allāh, I take refuge with You lest I should stray or be led astray, or slip or
         be tripped, or oppress or be oppressed, or behave foolishly or be treated
         foolishly.</translation>
+      <translation language="am">አላህ ሆይ፣ መዛት ወይም ማዛት እንዳልችል፣ መተንበይ ወይም ማተንበይ እንዳልገጥም፣ መበደል ወይም መበደል እንዳልደርስ፣ ማታለል ወይም ማታለል እንዳልገጥም፣ ሞኝነት ልፈጽም ወይም በሞኝነት እንዳልታዘዝ ከአንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference>Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (#3884).
         Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (3/152) and <em>Ṣaḥīḥ Ibn Mājah</em>
         (2/336).</reference>
@@ -181,8 +198,9 @@
     <dua id="18">
       <arabic>بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا
         تَوَكَّلْنَا</arabic>
-      <translation>In the name of Allāh we enter and in the name of Allāh we leave, and upon our
+      <translation language="en">In the name of Allāh we enter and in the name of Allāh we leave, and upon our
         Lord we place our trust.</translation>
+      <translation language="am">በአላህ ስም እንገባለን፣ በአላህ ስም እንወጣለን፣ በጌታችንም ላይ ታማኝነታችንን እንጣራለን።</translation>
       <reference>Abū Dāwud (#5096, 4/325) and Muslim (#2018). Shaykh ʿAbd al-ʿAzīz bin Bāz graded
         the chain of the former ḥasan in <em>Tuḥfah al-Akhyār</em> (p.\ 28).</reference>
     </dua>
@@ -200,9 +218,10 @@
         نُوراً<sup>[1]</sup>. [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في
           عِظَامِي]<sup>[2]</sup> [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي
           نُوراً]<sup>[1]</sup> [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup>[2]</sup>.</arabic>
-      <translation>O Allāh, place within my heart light, and upon my tongue light, and within my
+      <translation language="en">O Allāh, place within my heart light, and upon my tongue light, and within my
         ears light, and within my eyes light, and place behind me light and in front of me light and
         above me light and beneath me light. O Allāh, bestow upon me light.</translation>
+      <translation language="am">አላህ ሆይ፣ በልቤ ብርሃን አድርግ፣ በቋንቋዬ ብርሃን አድርግ፣ በጆሮዬ ብርሃን አድርግ፣ በዓይኖቼ ብርሃን አድርግ፤ ከኋላዬ እና ከፊቴ ብርሃን አድርግ፣ ከላዬ እና ከታችዬ ብርሃን አድርግ። አላህ ሆይ፣ ብዙ ብርሃን ስጠኝ።</translation>
       <reference>[1] Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530). [2] Al-Tirmidhī
         (#3419, 5/483).</reference>
     </dua>
@@ -216,11 +235,12 @@
           الرَّجِيمِ)<sup>[2]</sup>، (بِسْمِ اللَّهِ، وَالصَّلاةُ)<sup>[3]</sup>. [وَالسَّلامُ عَلَى
         رَسُوْلِ اللَّهِ]<sup>[4]</sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ
         رَحْمَتِكَ)<sup>[5]</sup>.</arabic>
-      <translation>(Enter with your right foot<sup>[1]</sup> and say:) “I take refuge with Allāh,
+      <translation language="en">(Enter with your right foot<sup>[1]</sup> and say:) “I take refuge with Allāh,
         the Supreme and with His Noble Face, and His eternal authority from the accursed
           devil.<sup>[2]</sup> In the name of Allāh, and prayers<sup>[3]</sup> and peace be upon the
         Messenger of Allāh.<sup>[4]</sup> O Allāh, open the gates of Your mercy for
           me.”<sup>[5]</sup></translation>
+      <translation language="am">(በቀኝ እግር ግባ<sup>[1]</sup> እና እንዲህ ብለህ፦) “ከእጅግ ታላቁ አላህ፣ ከክቡሩ ፊቱና ከዘላለማዊ ሥልጣኑ ዘመቻ የተሰጠው ሰይጣን እንዳይጎዳኝ መጠጊያ እፈልጋለሁ።<sup>[2]</sup> በአላህ ስም፣ ጸሎትና ሰላም በአላህ መልእክተኛ ላይ ይሁን።<sup>[3][4]</sup> አላህ ሆይ፣ የምሕረትህን በሮች ለእኔ ክፈት።”<sup>[5]</sup></translation>
       <reference>[1] Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and
         al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in
           <em>Silsilah al-Ahādīth al-Ṣaḥīḥah</em> (#2478, 5/624). [2] Abū Dāwud (#466). Also see
@@ -238,9 +258,10 @@
       <arabic>(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup>[1]</sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ
         وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي
         مِنَ الشَّيْطَانِ الرَّجِيْمِ)<sup>[2]</sup>.</arabic>
-      <translation>(Exit with your left foot and say:)<sup>[1]</sup> “In the name of Allāh, and
+      <translation language="en">(Exit with your left foot and say:)<sup>[1]</sup> “In the name of Allāh, and
         prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O
         Allāh, guard me from the accursed devil.”<sup>[2]</sup></translation>
+      <translation language="am">(በግራ እግር ውጣ<sup>[1]</sup> እና እንዲህ ብለህ፦) “በአላህ ስም፣ ጸሎትና ሰላም በአላህ መልእክተኛ ላይ ይሁን። አላህ ሆይ፣ ከጎጂዎችህ ከፍተሻህን እሻላለሁ፤ አላህ ሆይ፣ ከተረገመው ሰይጣን አጥብቀኝ።”<sup>[2]</sup></translation>
       <reference>[1] Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in
           <em>Silsilah al-Ahādīth al-Ṣaḥīḥah</em> (#2478, 5/624). [2] See takhrīj of the previous
         ḥadīth (duʿā #20) and the extension (<span lang="ar">اللهم اعصمني من الشيطان الرجيم</span>)
@@ -253,9 +274,10 @@
     <dua id="22">
       <arabic>يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ
         عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</arabic>
-      <translation>One repeats just as the muadhdhin (one who calls to prayers) says, except when he
+      <translation language="en">One repeats just as the muadhdhin (one who calls to prayers) says, except when he
         says “come to prayer” or “come to success,” one should say “There is no might nor power
         except with Allāh.”</translation>
+      <translation language="am">አዛኑ የሚለውን ቃል ሁሉ እንደሚለው ማድገም ያለበት፣ “ናችሁ ወደ ጸሎት” እና “ናችሁ ወደ ስኬት” ሲለው ግን “ኀይልና ጉልበት ከአላህ ብቻ በቀር የለም” ይል።</translation>
       <reference>Al-Bukhārī (#611, 1/152) and Muslim (#383, 1/288).</reference>
     </dua>
     <dua id="23">
@@ -263,27 +285,30 @@
         أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ
         بِالإِسْلامِ دِيْنًا»<sup>[1]</sup> «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ
           المُؤَذِّنِ».<sup>[2]</sup></arabic>
-      <translation>Say: “And I too bear witness that none has the right to be worshipped except
+      <translation language="en">Say: “And I too bear witness that none has the right to be worshipped except
         Allāh, alone, without partner, and that Muḥammad is His slave and Messenger. I am pleased
         with Allāh as a Lord, and Muḥammad as a Messenger and Islam as a religion.”<sup>[1]</sup>
         Say this after the declaration of faith called by the muadhdhin.<sup>[2]</sup></translation>
+      <translation language="am">እንዲህ በል፦ “እኔም ለመምሰግን የሚገባ አላህ ብቻ እንደሆነ አመሰክራለሁ፣ አንዱም አጋር የለውም፤ ሙሐመድም ባሪያውና መልእክተኛው መሆኑን አመሰክራለሁ። አላህን እንደጌታዬ፣ ሙሐመድን እንደመልእክተኛዬ፣ እስልምናንም እንደ እምነቴ እገኛለሁ።”<sup>[1]</sup> ይህን በአዛኑ ተስተናግዶ በኋላ ተናገር።<sup>[2]</sup></translation>
       <reference>[1] Muslim (#386, 1/290). [2] Ibn Khuzaymah (#422, 1/220).</reference>
     </dua>
     <dua id="24">
       <arabic>يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ
         المُؤَذِّنِ.</arabic>
-      <translation>One should send prayers on the Prophet ﷺ after answering the call of the
+      <translation language="en">One should send prayers on the Prophet ﷺ after answering the call of the
         muadhdhin.</translation>
+      <translation language="am">አዛኑን ከመመለስ በኋላ በነብዩ ﷺ ላይ ጸሎት መላክ ይገባል።</translation>
       <reference>Muslim (#384, 1/288).</reference>
     </dua>
     <dua id="25">
       <arabic>يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ،
         آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي
         وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ]».</arabic>
-      <translation>Say: “O Allāh, Owner of this perfect call and Owner of this prayer to be
+      <translation language="en">Say: “O Allāh, Owner of this perfect call and Owner of this prayer to be
         performed, bestow upon Muḥammad al-Wasīlah and al-Faḍīlah and send him upon a praised
         platform which You have promised him. (Verily, You never fail in Your
         promise.)”</translation>
+      <translation language="am">እንዲህ በል፦ “አላህ ሆይ፣ ይህን ፍጹም ጥሪና ይህን የሚፈጸም ጸሎት ባለቤት፣ ለሙሐመድ አል-ወሲላንና አል-ፋዲላን ስጥ፣ አንተ የተስፋ ሰጠኸውንም የተመሰገነ መድረክ አስነሣው። (እርግጥ ቃልህን አትጥላም)”</translation>
       <reference>Al-Bukhārī (#614, 1/152) and what is between the brackets is from al-Bayhaqī
         (1/410). Shaykh ʿAbd al-ʿAzīz bin Bāz authenticated the chain of the latter in <em>Tuḥfah
           al-Akhbār</em> (p. 38).</reference>
@@ -291,8 +316,9 @@
     <dua id="26">
       <arabic>يَدْعُو لِنَفْسِهِ بَيْنَ الأَذَانِ وَالإِقَامَةِ؛ فَإنَّ الدُّعَاءَ حِيْنَئذٍ لَا
         يُرَدُّ.</arabic>
-      <translation>One should also supplicate for himself during the time between the adhān and the
+      <translation language="en">One should also supplicate for himself during the time between the adhān and the
         iqāmah as supplication at such time is not rejected.</translation>
+      <translation language="am">ከአዛን እስከ ኢቃማ መካከል ለራሱ መጸለይ ይገባል፤ በዚያ ጊዜ ዱዓ አይመለስም።</translation>
       <reference>Al-Tirmidhī (#212), Abū Dāwud (#521), and Aḥmad (3/119). Also see <em>Irwāʾ
           al-Ghalīl</em> (1/262).</reference>
     </dua>
@@ -305,17 +331,19 @@
         وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ
         الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ
         وَالْبَرَدِ.</arabic>
-      <translation>O Allāh, distance me from my sins just as You have distanced the East from the
+      <translation language="en">O Allāh, distance me from my sins just as You have distanced the East from the
         West. O Allāh, purify me of my sins as a white robe is purified of filth. O Allāh cleanse me
         of my sins with snow, water, and ice.</translation>
+      <translation language="am">አላህ ሆይ፣ በምሥራቅና በምዕራብ መካከል እንደምትለይ ከኃጢአቴ እንዲሁ አርቀኝ። ነጭ ልብስ ከቆሻሻ እንደሚጠራ ከኃጢአቴ አጥራኝ፤ በበረዶ፣ በውሃና በበረዶ ኃጢአቴን አጥብቀኝ።</translation>
       <reference>Al-Bukhārī (#744, 1/181) and Muslim (#598, 1/419).</reference>
     </dua>
   
   <dua id="28">
     <arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ
       إِلَهَ غَيْرُكَ.</arabic>
-    <translation>How perfect You are O Allāh, and I praise You. Blessed be Your name, and lofty is
+    <translation language="en">How perfect You are O Allāh, and I praise You. Blessed be Your name, and lofty is
       Your position and none has the right to be worshiped except You.</translation>
+    <translation language="am">አላህ ሆይ፣ ፍጹም ነህ እና አመሰግንሃለሁ። ስምህ የተባረከ ነው፣ ክብርህም ከፍ ነው፤ ለመምሰግን የሚገባ አንተ ብቻ ነህ።</translation>
     <reference>Abū Dāwud [775,776], al-Tirmidhī [242, 432], al-Nasāʾī (2/133), and Ibn Mājah [804,
       806]. Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/77) and <em>Ṣaḥīḥ Ibn Mājah</em>
       (1/135).</reference>
@@ -328,7 +356,7 @@
       أَنْتَ، وَاهْدِنِي لأَحْسَنِ الأَخْلاقِ لا يَهْدِي لأَحْسَنِهَا إلاَّ أَنْتَ، وَاصْرِفْ عَنِّي
       سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ
       كُلُّهُ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ
-      وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ.</arabic><translation>I have turned my face
+      وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ.</arabic><translation language="en">I have turned my face
       sincerely towards He who has brought forth the heavens and the earth and I am not of those who
       associate (others with Allāh). Indeed my prayer, my sacrifice, my life, and my death are for
       Allāh, Lord of the Worlds, no partner has He, with this I am commanded and I am of the
@@ -339,16 +367,17 @@
       can deliever me from it other than You. Here I am, in answer to Your call, happy to serve You.
       All good is within Your hands and evil does not stem from You. I exist by Your will and will
       return to You. Blessed and High are You, I seek Your forgiveness and repent unto
-      You.</translation><reference>Muslim (#771, 1/534).</reference>></dua>
+      You.</translation><translation language="am">ሰማያትንና ምድርን ያፈጠረውን ግልፅ አቅጣጫ ወደ እርሱ አዘንሁ፣ ከአጋንንት የለም። በእርግጥ ጸሎቴ፣ መሥዋዔ፣ ሕይወቴና ሞቴ ሁሉ ለዓለም ጌታ ለአላህ ነው፣ አጋርም የለውም፤ ይህን ትእዛዝ ተቀብዬ እስልምናን አምኜአለሁ። አላህ ሆይ፣ አንተ ንጉሥ ነህ፤ ለመምሰግን የሚገባ አንተ ብቻ ነህ፤ ጌታዬ አንተ ነህ፣ ባሪያህም እኔ ነኝ። ራሴን በደልሁ፤ ኀጢአቴን አመሰክራለሁ፤ ከአንተ በቀር ይቅር የሚል የለምና ኀጢአቴን ሁሉ ይቅር በል። ወደ ምርጥ ሥነ-ምግባር መምራቴን አድርግ፤ ወደዚህ ማስተምር አንተ ብቻ ነህ፤ ከመጥፎውም አታርቀኝ፣ ከእርሱ አታርቀው የሚችል የለምና። እነሆ ብቻህን እመልስሃለሁ፣ ስራህንም እለማመድልሃለሁ፤ መልካሙ ሁሉ በእጅህ ነው፣ ክፉ ወደ አንተ አይደለም። በአንተ እኖራለሁ፣ ወደ አንተም እመለሳለሁ። በረከትና ክብር ላይ ያለ አንተ ነህ፤ ይቅርታህን እለምናለሁ ወደ አንተም ንስሓ እመለሳለሁ።</translation><reference>Muslim (#771, 1/534).</reference>></dua>
   <dua id="30">
     <arabic>اللهم رَبَّ جِبرَائِيْلَ، وَ مِيكَائيْلَ، وَإسْرَافيْلَ، فَاطِرَ السَّمَوَاتِ وَ
       الأرْضِ، عَالِمَ الغَيْبِ وَ الشَّهَادَةِ، أنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا
       فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الحَقِّ بِإذْنِكَ، إنَّكَ تَهْدِي
       مَنْ تَشَاءُ إلَى صِرَاطٍ مُسْتَقِيمٍ.</arabic>
-    <translation>O Allāh, Lord of Jibrāʾīl, Mīkāʾīl, and Isrāfīl (Great angels), Creator of the
+    <translation language="en">O Allāh, Lord of Jibrāʾīl, Mīkāʾīl, and Isrāfīل (Great angels), Creator of the
       heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your
       servants in that which they have disputed. Guide me to the truth by Your leave, in that which
       they have differed, for verily You guide whom You will to a straight path.</translation>
+    <translation language="am">አላህ ሆይ፣ የጅብራኤልና የሚካኤል የእስራፊል ጌታ፣ የሰማያትንና ምድርን ፈጣሪ፣ የሚታይንና የማይታይን ታውቃለህ፤ ባሪያዎችህ በሚጣሉት አንተ ታስተዳድራቸዋለህ። በተለያዩት ነገሮች ውስጥ ወደ እውነት በፈቃድህ መምራቴን አድርግ፤ እርግጥ ወደ ቀጥተኛ መንገድ ማመራት የምትወደውን አንተ ብቻ ነህ።</translation>
     <reference>Muslim (#770, 1/534).</reference>
   </dua>
   <dua id="31">
@@ -356,10 +385,11 @@
       الحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَ سُبْحَانَ
       اللهِ بُكْرَةً وَأصِيلاً (ثَلاثًا) أعُوذ بِا اللهِ مِنَ الشَّيْطَانِ: مِنْ نَفْحِهِ وَ
       نَفْثِهِ، وَ هَمْزِهِ.</arabic>
-    <translation>Allāh is Most Great, Allāh is Most Great, Allāh is Most Great, much praise is for
+    <translation language="en">Allāh is Most Great, Allāh is Most Great, Allāh is Most Great, much praise is for
       Allāh, much praise is for Allāh, much praise is for Allāh, and I declare the perfection of
       Allāh in the early morning and in the late afternoon. (Three times) I take refuge with Allāh
       from the devil, from his pride, his poetry and his madness.</translation>
+    <translation language="am">አላህ ታላቅ ነው፣ አላህ ታላቅ ነው፣ አላህ ታላቅ ነው፤ ለአላህ ብዙ ምስጋና፣ ለአላህ ብዙ ምስጋና፣ ለአላህ ብዙ ምስጋና፤ አላህን በነጋና በማታ እደግማለሁ (ሶስት ጊዜ)። ከሰይጣን፣ ከትዕቢቱ፣ ከዐመፅና ከእብደቱ ወደ አላህ መጠጊያ እፈልጋለሁ።</translation>
     <reference>Abū Dāwud (#764, 1/203), Ibn Mājah (#807, 1/265), Aḥmad (#4/85), and Muslim (#601,
       1/420) with extension from: (<div lang="ar">مِنْ نَفْحِهِ</div>).</reference>
   </dua>
@@ -374,7 +404,7 @@
       أنَبْتُ، وَ بِكَ خَاصَمْتُ، وَ إلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، و أخَّرْتُ، وَ
       مَا أسْرَرْتُ، وَ مَا أعْلَنْتُ][أَنْتَ المُقَدِّمُ، وَ أَنْتَ المُؤَخِّرُ لَا إلٰهَ إلَّا
       أَنْتَ][أَنْتَ إلٰهِي لَا إلٰهَ إلَّا أَنْتَ].</arabic>
-    <translation>The Prophet () would say (as an opening supplication in prayer) when arising from
+    <translation language="en">The Prophet () would say (as an opening supplication in prayer) when arising from
       sleep to perform prayers during the night: "O Allāh, to You belongs all praise, You are the
       Light of the heavens and the Earth and all that is within them. To You belongs all praise, You
       are the Sustainer of the heavens and the Earth and all that is within them. To You belongs all
@@ -390,6 +420,7 @@
       what I have made public. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be
       worshipped except You, You are my Deity, none has the right to be worshipped except
       You."</translation>
+    <translation language="am">ነብዩ ﷺ በሌሊት ለጸሎት ሲነሡ ይህን ይሉ ነበር፦ “አላህ ሆይ፣ ምስጋና ሁሉ የአንተ ነው፤ ሰማያትንና ምድርንና ያሉባቸውን የምትያዝ ብርሃን አንተ ነህ። ምስጋና ሁሉ የአንተ ነው፤ ሰማያትንና ምድርን የምትቆጣጠር አንተ ነህ። ምስጋና ሁሉ የአንተ ነው፤ ሰማያትንና ምድርን የምትገዛ አንተ ነህ። ምስጋና ሁሉ የአንተ ነው፤ አንተ እውነት ነህ፣ ቃልህም እውነት ነው፣ ተስፋህ እውነት ነው፣ መቀረትህ እውነት ነው፣ ገነት እውነት ነው፣ እሳትም እውነት ነው፣ ነብያት እውነት ናቸው፣ ሙሐመድ ﷺ እውነት ነው፣ ሰዓትም እውነት ነው። አላህ ሆይ፣ አንተን ተማጽናለሁ፣ በአንተም ተደግፌአለሁ፣ በአንተ አመንሁ፣ ወደ አንተም ተመለስሁ፣ በአንተ ተከራከርሁ፣ ወደ አንተም ፍርድ አደረግሁ። ቀደም ብሎና ወደፊት የሚሆን ኃጢአቴን፣ የሰወርኩትንና ያወጣሁትን ሁሉ ይቅር በል፤ ይቅር የሚል አንተ ብቻ ነህ። አንተ የምቀድም የምቀር ነህ፤ ለመምሰግን የሚገባ አንተ ብቻ ነህ።”</translation>
     <reference>Al-Bukhārī (3/3), (11/116), and (#1120, 13/371, 423, 465), and Muslim (#769, 1/532)
       in a summarised form.</reference>
   </dua>
@@ -399,36 +430,41 @@
     <title language="am">በሩኩእ ጊዜ</title>
     <dua id="33">
       <arabic>سُبْحَانَ رَبَّيَ الْعَظِيمِ (ثلاثا)</arabic>
-      <translation>How perfect my Lord is, The Supreme. (Three times)</translation>
+    <translation language="en">How perfect my Lord is, The Supreme. (Three times)</translation>
+    <translation language="am">ጌታዬ ፍጹም ነው፣ ከፍ ያለ ነው (ሶስት ጊዜ).</translation>
       <reference>Abū Dāwud (#871), al-Tirmidhī (#262), al-Nisā'i (1/190), Ibn Mājah (#888), and
         Aḥmad (#394, 5/382,394). Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/83).</reference>
     </dua>
     <dua id="34">
       <arabic>سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْلِي</arabic>
-      <translation>How perfect You are O Allāh, our Lord and I praise You. O Allāh, forgive
+    <translation language="en">How perfect You are O Allāh, our Lord and I praise You. O Allāh, forgive
         me.</translation>
+    <translation language="am">አላህ ሆይ፣ ጌታችን፣ ፍጹም ነህ እና አመሰግንሃለሁ፤ አላህ ሆይ፣ ይቅር በልልኝ።</translation>
       <reference>Al-Bukhārī (#794, 1/99) and Muslim (#484, 1/350).</reference>
     </dua>
     <dua id="35">
       <arabic>سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ.</arabic>
-      <translation>Perfect and Holy (He is), Lord of the angels and the Rūḥ (i.e.
-        Jibrāʾīl).</translation>
+      <translation language="en">Perfect and Holy (He is), Lord of the angels and the Rūḥ (i.e.
+        Jibrāʾīل).</translation>
+      <translation language="am">ፍጹምና ቅዱስ ነው፣ የመላእክትና የጀብራኤል ጌታ።</translation>
       <reference>Muslim (#487, 1/353) and Abū Dāwud (#872, 1/230).</reference>
     </dua>
     <dua id="36">
       <arabic>اللَّهُمَّ لَكَ رَكَعْتُ ، وَبِكَ آمَنْتُ ، وَلَكَ أَسْلَمْتُ ، خَشَعَ لَكَ سَمْعِي ،
         وَبَصَرِي ، وَمُخِّي ، وَعَظْمِي ، وَعَصَبِي ، [وَمَا اسْتَقَلَّت بِهِ قَدَمِي]</arabic>
-      <translation>O Allāh, unto You I have bowed, and in You I have believed, and to You I have
+      <translation language="en">O Allāh, unto You I have bowed, and in You I have believed, and to You I have
         submitted. My hearing, sight, mind, bones, tendons and what my feet carry are humbled before
         You.</translation>
+      <translation language="am">አላህ ሆይ፣ ለአንተ ተንበርክሻለሁ፣ በአንተ አመንሁ፣ ለአንተም ተማጽናለሁ። ሰማቴ፣ ራእዬ፣ አእምሮዬ፣ ዐጥንቄና ጡንቻዬ፣ እግሬ የምታነጋገረውም ሁሉ በፊትህ ዝቅ ብለዋል።</translation>
       <reference>Muslim (#771, 1/534), Abū Dāwud (#760), al-Tirmidhī (#266) and al-Nasāʾī (2/130).
         The extension is found in Ibn Ḥibbān, see <em>Ṣaḥīḥ Ibn Ḥibbān</em> (#1901) and <em>Ṣaḥīḥ
           Ibn Khuzaymah</em> (#607).</reference>
     </dua>
     <dua id="37">
       <arabic>سُبْحَانَ ذِي الْجَبَروتِ ، وَالْمَلَكُوتِ ، وَالكِبْرِيَاءِ ، وَالْعَظَمَةِ.</arabic>
-      <translation>How perfect He is, The Possessor of total power, sovereignty, magnificence and
+      <translation language="en">How perfect He is, The Possessor of total power, sovereignty, magnificence and
         grandeur.</translation>
+      <translation language="am">ፍጹም ነው፣ የታላቅ ኀይልና መንግስት፣ ክብርና ግርማ ባለቤት።</translation>
       <reference>Abū Dāwud (#873, 1/230), al-Nasāʾī (2/191), and Aḥmad (6/24).</reference>
     </dua>
   </group>
@@ -437,13 +473,15 @@
     <title language="am">ከሩኩእ ሲነሳ</title>
     <dua id="38">
       <arabic>سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.</arabic>
-      <translation>May Allāh answer he who praises Him.</translation>
+      <translation language="en">May Allāh answer he who praises Him.</translation>
+      <translation language="am">አላህን የሚመስገንን አላህ ይሰማለሁ።</translation>
       <reference><em>Fatḥ al-Bārī</em> (#795, 2/282).</reference>
     </dua>
     <dua id="39">
       <arabic>رَبَّنَا وَلَكَ الْحَمْدُ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ.</arabic>
-      <translation>Our Lord, for You is all praise, an abundant beautiful blessed
+      <translation language="en">Our Lord, for You is all praise, an abundant beautiful blessed
         praise.</translation>
+      <translation language="am">ጌታችን ሆይ፣ ምስጋና ሁሉ የአንተ ነው፣ ብዙና ጥሩ ተባርኮ ያለ ምስጋና።</translation>
       <reference><em>Fatḥ al-Bārī</em> (#799, 2/284).</reference>
     </dua>
     <dua id="40">
@@ -451,11 +489,12 @@
         شَيْءٍ بَعْدُ ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ ، أَحَقُّ مَا قَالَ الْعَبْدُ ، وَكُلُّنَا
         لَكَ عَبْدٌ ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ ، وَلَامُعْطِي لِمَا مَنَعْتَ ، وَلَا
         يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.</arabic>
-      <translation>The heavens and the earth and all between them abound with Your praises, and all
+      <translation language="en">The heavens and the earth and all between them abound with Your praises, and all
         that You will abounds with Your praises. O Possessor of praise and majesty, the truest thing
         a slave has said (of You) and we are all Your slaves. O Allāh, none can prevent what You
         have willed to bestow and none can bestow what You have willed to prevent, and no wealth or
         majesty can benefit anyone, as from You is all wealth and majesty.</translation>
+      <translation language="am">ሰማያትና ምድር እና ያሉባቸው ሁሉ በምስጋናህ ተሞልተዋል፤ አንተ በፈቃድህ የምትወድዱት ሁሉ በምስጋናህ ይሞላል። የምስጋናና ክብር ባለቤት፣ ባሪያ ስለአንተ የሚል እውነተኛው ነገር ይህ ነው፣ እኛም ሁላችን ባሪያዎችህ ነን። አላህ ሆይ፣ አንተ የምትሰጥከውን ማንም ሊከለክል አይችልም፤ አንተ የምትከልከለውንም ማንም ሊሰጥ አይችልም፤ ሀብትና ክብርም ከአንተ በቀር ማንንም አያጠቅም።</translation>
       <reference>Muslim (#477, 1/346).</reference>
     </dua>
   </group>
@@ -464,14 +503,16 @@
     <title language="am">በሱጁድ ጊዜ የሚነበቡ ዱዓዎች</title>
     <dua id="41">
       <arabic>سُبْحَانَ رَبَّيَ الأَعْلَى (ثلاثا)</arabic>
-      <translation>How Perfect my Lord is, The Most High. (Three times)</translation>
+      <translation language="en">How Perfect my Lord is, The Most High. (Three times)</translation>
+      <translation language="am">ጌታዬ ፍጹም ነው፣ ሁሉን የሚያምር ከፍ ያለ ነው (ሶስት ጊዜ).</translation>
       <reference>Abū Dāwud (#871), al-Tirmidhī (#262), al-Nasāʾī (1/190), Ibn Mājah (#888), and
         Aḥmad (#394, 5/382). Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/83).</reference>
     </dua>
     <dua id="42">
       <arabic>سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي</arabic>
-      <translation>How Perfect You are O Allāh, our Lord, and I praise You. O Allāh, forgive
+      <translation language="en">How Perfect You are O Allāh, our Lord, and I praise You. O Allāh, forgive
         me.</translation>
+      <translation language="am">አላህ ሆይ፣ ጌታችን፣ ፍጹም ነህ እና አመሰግንሃለሁ፤ አላህ ሆይ፣ ይቅር በልልኝ።</translation>
       <reference>Al-Bukhārī (#794, 1/99) and Muslim (#484, 1/350).</reference>
     </dua>
     
@@ -479,33 +520,37 @@
       <arabic>اللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِي لِلَّذِي
         خَلَقَهُ، وَصَوَّرَهَ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ
         الخَالِقِينَ</arabic>
-      <translation>O Allāh, unto You I have prostrated and in You I have believed, and unto You I
+      <translation language="en">O Allāh, unto You I have prostrated and in You I have believed, and unto You I
         have submitted. My face has prostrated before He Who created it and fashioned it, and
         brought forth its faculties of hearing and seeing. Blessed is Allāh, the Best of
         creators.</translation>
+      <translation language="am">አላህ ሆይ፣ ለአንተ ተደፍቼ ወደ ግምባቴ ተወድቄአለሁ፣ በአንተ አመንሁ፣ ለአንተም ተማጽናለሁ። ፊቴ ፈጠረውን፣ ቅርጸውን፣ ስማትንና ራእይን ከልብ ላይ ያስነሣውን አላህን ተደፍቶለታል። በረከት ለአላህ፣ ሁሉም ፈጣሪዎች መልካም በሆነው።</translation>
       <reference>Muslim (771, 1/534).</reference>
     </dua>
     <dua id="44">
       <arabic>سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالكِبْرِيَاءِ، وَالْعَظَمَةِ</arabic>
-      <translation>How perfect He is, The Possessor of total power, sovereignty, magnificence and
+      <translation language="en">How perfect He is, The Possessor of total power, sovereignty, magnificence and
         grandeur.</translation>
+      <translation language="am">ፍጹም ነው፣ የታላቅ ኀይልና መንግስት፣ ክብርና ግርማ ባለቤት።</translation>
       <reference>Abū Dāwud (#873, 1/230), Aḥmad (6/24), and al-Nasāʾī (2/191). Al-Albānī
         authenticated it in <em>Ṣaḥīḥ Abī Dāwud</em> (1/166).</reference>
     </dua>
     <dua id="45">
       <arabic>اللًّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ،
         وَعَلانِيَتَهُ وَسِرَّهُ</arabic>
-      <translation>O Allāh, forgive me all of my sins, the small and great of them, the first and
+      <translation language="en">O Allāh, forgive me all of my sins, the small and great of them, the first and
         last of them, and the apparent and hidden of them.</translation>
+      <translation language="am">አላህ ሆይ፣ ኃጢአቴን ሁሉ ይቅር በልልኝ፣ ትንሽና ታላቅ፣ የመጀመሪያና የመጨረሻ፣ ታየውንና ተሰወረውን።</translation>
       <reference>Muslim (#483, 1/350).</reference>
     </dua>
     <dua id="46">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ،
         وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى
         نَفْسِكَ</arabic>
-      <translation>O Allāh, I take refuge within Your pleasure from Your displeasure and within Your
+      <translation language="en">O Allāh, I take refuge within Your pleasure from Your displeasure and within Your
         pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your
         praise. You are as You have praised Yourself.</translation>
+      <translation language="am">አላህ ሆይ፣ ከደስታህ ውስጥ ከመቈጣህ ውስጥ መጠጊያ እፈልጋለሁ፤ ከመቅሠፍትህ ውስጥ ከይቅርታህ ውስጥ መጠጊያ እፈልጋለሁ፤ ከአንተ ውስጥ ወደ አንተ መጠጊያ እፈልጋለሁ። ምስጋናህን ልቈጥር አልችልም፤ አንተ ራስህን እንዳመሰገንህ እንዲሁ ነህ።</translation>
       <reference>Muslim (#486, 1/352).</reference>
     </dua>
   </group>
@@ -515,14 +560,16 @@
     
     <dua id="47">
       <arabic>رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي</arabic>
-      <translation>My Lord forgive me, My Lord forgive me.</translation>
+      <translation language="en">My Lord forgive me, My Lord forgive me.</translation>
+      <translation language="am">ጌታዬ ይቅር በልልኝ፣ ጌታዬ ይቅር በልልኝ።</translation>
       <reference>Abū Dāwud (#874, 1/231). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (1/148).</reference>
     </dua>
     <dua id="48">
       <arabic>اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي،
         وَارْزُقْنِي، وَارْفَعْنِي</arabic>
-      <translation>O Allāh, forgive me, have mercy upon me, guide me, enrich me, give me health,
+      <translation language="en">O Allāh, forgive me, have mercy upon me, guide me, enrich me, give me health,
         grant me sustenance and raise my rank.</translation>
+      <translation language="am">አላህ ሆይ፣ ይቅር በልልኝ፣ ምሕረትህን ስጠኝ፣ መመሪያህን ስጠኝ፣ አታርቀኝ፣ ጤና ስጠኝ፣ ምግብና ሀብት ስጠኝ፣ ደረጃዬን ከፍ አድርግ።</translation>
       <reference>Abū Dāwud (#850), al-Tirmidhī (#284), Ibn Mājah (#898). Also see <em>Ṣaḥīḥ
         al-Tirmidhī</em> (1/90), and <em>Ṣaḥīḥ Ibn Mājah</em> (1/148).</reference>
     </dua>
@@ -534,9 +581,10 @@
     <dua id="49">
       <arabic>سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ
         (فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ)</arabic>
-      <translation>My face fell prostrate before He who created it and brought forth its faculties
+      <translation language="en">My face fell prostrate before He who created it and brought forth its faculties
         of hearing and seeing by His might and power. (So Blessed is Allāh, the best of
         creators).</translation>
+      <translation language="am">ፊቴን ፈጠረው፣ የመስማትና የማየት ችሎታውን በኀይሉና በጉልበቱ ያበቃውን አላህ ላይ ተደፍቶአል። (እንግዲህ አላህ በረከት ይሁኑ፣ ከፈጣሪዎች ሁሉ የሚበልጥ ነው።)</translation>
       <reference>Al-Tirmidhī (#580, 2/474), Aḥmad (6/30) and al-Hākim declated it authentic and
         al-Dhahabī agreed with him (1/220). The extension is from Ṣūrah al-Muʾminūn.</reference>
     </dua>
@@ -544,9 +592,10 @@
       <arabic>اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً،
         وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلَهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ
         دَاوُدَ</arabic>
-      <translation>O Allāh, record for me a reward for this (prostration), and remove from me a sin.
+      <translation language="en">O Allāh, record for me a reward for this (prostration), and remove from me a sin.
         Save it for me and accept it from me just as You had accepted it from Your servant
         Dāwud.</translation>
+      <translation language="am">አላህ ሆይ፣ ለዚህ ሱጁድ ውስጥ ዋጋ ጽፍልኝ፣ ኀጢአትንም በእርሱ አስወግደኝ፤ እንደ ባሪያህ ዳዊት ተቀብለህ ለእኔም ተቀበለው።</translation>
       <reference>Al-Tirmidhī (#579, 2/473) and al-Hākim declared it ṣaḥīḥ and al-Dhahabī agreed with
         him (1/219).</reference>
     </dua>
@@ -556,7 +605,8 @@
     <title language="am">የታሻሁድ ዱዓ</title>
     <dua id="51">
       <arabic>التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
-      <translation>Al-Tahiyyāt is for Allāh. All acts of worship and good deeds are for Him. Peace and the mercy and blessings of Allāh be upon you O Prophet. Peace be upon us and all of Allāh's righteous servants. I bear witness that none has the right to be worshipped except Allāh and I bear witness that Muḥammad is His slave and Messenger.</translation>
+      <translation language="en">Al-Tahiyyāt is for Allāh. All acts of worship and good deeds are for Him. Peace and the mercy and blessings of Allāh be upon you O Prophet. Peace be upon us and all of Allāh's righteous servants. I bear witness that none has the right to be worshipped except Allāh and I bear witness that Muḥammad is His slave and Messenger.</translation>
+      <translation language="am">ሰላማት ሁሉ ለአላህ ነው፣ ጸሎቶችና ጥሩ ሥራዎች ሁሉ ለእርሱ ናቸው። ሰላምና የአላህ ምሕረትና በረከት በአንተ ላይ በነብይ፤ ሰላም በእኛ ላይና በአላህ ጻድቃን ባሪያዎቹ ሁሉ ላይ ይሁን። ለመምሰግን የሚገባ አላህ ብቻ እንደሆነ፣ ሙሐመድም ባሪያውና መልእክተኛው መሆኑን አመሰክራለሁ።</translation>
       <reference>Al-Bukhārī (#831, 2/311) and Muslim (#402, 1/301).</reference>
     </dua>
   </group>
@@ -565,12 +615,14 @@
     <title language="am">ከታሻሁድ በኋላ በነብዩ ላይ የሚተላለፍ ዱዓ</title>
     <dua id="52">
       <arabic>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</arabic>
-      <translation>O Allāh, send prayers upon Muḥammad and the followers of Muḥammad, just as You sent prayers upon Ibrāhim and upon the followers of Ibrāhim. Verily, You are full of praise and majesty. O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You sent blessings upon Ibrāhim and upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <translation language="en">O Allāh, send prayers upon Muḥammad and the followers of Muḥammad, just as You sent prayers upon Ibrāhim and upon the followers of Ibrāhim. Verily, You are full of praise and majesty. O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You sent blessings upon Ibrāhim and upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <translation language="am">አላህ ሆይ፣ እንደ ኢብራሂምንና ቤተሰቡን እንደ ባርክህባቸው ሁሉ በሙሐመድና በቤተሰቡ ላይ ጸሎት ልክ፤ እርግጥ ምስጋናና ክብር የሚገባህ አንተ ነህ።</translation>
       <reference>Al-Bukhārī (#337, 6/408).</reference>
     </dua>
     <dua id="53">
       <arabic>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، وَ عَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</arabic>
-      <translation>O Allāh, send prayers upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent prayers upon the family of Ibrāhim, and send blessings upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent blessings upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <translation language="en">O Allāh, send prayers upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent prayers upon the family of Ibrāhim, and send blessings upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent blessings upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <translation language="am">አላህ ሆይ፣ እንደ ኢብራሂም ቤተሰብ ላይ ጸሎት እንዳትለክ በሙሐመድ ሚስቶቹና ዘርቱ ላይ ጸሎት ልክ፤ እንዲሁም እንደ ኢብራሂም ቤተሰብ ባርክህባቸው እንደባርክህ በሙሐመድ ሚስቶቹና ዘርቱ ላይ ባርክ። እርግጥ ምስጋናና ክብር የሚገባህ አንተ ነህ።</translation>
       <reference>Al-Bukhārī (#3369, 2/407) and Muslim (#407, 1/306).</reference>
     </dua>
   </group>
@@ -580,62 +632,69 @@
     <title language="am">የመጨረሻ ታሻሁድ በኋላና ታስሊም በፊት የሚተላለፈው</title>
     <dua id="54">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ</arabic>
-      <translation>O Allāh, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death, and from the evil affliction of al-Masīḥ al-Dajjāl.</translation>
+      <translation language="en">O Allāh, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death, and from the evil affliction of al-Masīḥ al-Dajjāl.</translation>
+      <translation language="am">አላህ ሆይ፣ ከመቃብር ቅጣት፣ ከእሳት መከራ፣ ከሕይወትና ሞት ፈተና፣ ከመሲሕ ዳጃል ክፉ ፈተና አንተን መጠጊያ እፈልጋለሁ።</translation>
       <reference>Al-Bukhārī (2/102) and Muslim (1/412).</reference>
     </dua>
     <dua id="55">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ</arabic>
-      <translation>O Allāh, I take refuge in You from the punishment of the grave, and I take refuge in You from the temptation and trial of al-Masīḥ al-Dajjāl, and I take refuge in You from the trials and tribulations of life and death. O Allāh, I take refuge in You from sin and debt.</translation>
+      <translation language="en">O Allāh, I take refuge in You from the punishment of the grave, and I take refuge in You from the temptation and trial of al-Masīḥ al-Dajjāl, and I take refuge in You from the trials and tribulations of life and death. O Allāh, I take refuge in You from sin and debt.</translation>
+      <translation language="am">አላህ ሆይ፣ ከመቃብር ቅጣት ወደ አንተ መጠጊያ እፈልጋለሁ፤ ከመሲሕ ዳጃል ፈተናና ፍላጎት፣ ከሕይወትና ሞት ፈተና ወደ አንተ መጠጊያ እፈልጋለሁ። አላህ ሆይ፣ ከኃጢአትና ከዕዳ ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference>Al-Bukhārī (#832, 2/102) and Muslim (#589, 1/412). The wording is from Muslim.</reference>
     </dua>
     <dua id="56">
       <arabic>اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرةً مِنْ عِنْدِكَ، وَارْحَمْني، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ</arabic>
-      <translation>O Allāh, I have indeed oppressed my soul excessively and none can forgive sin except You, so forgive me a forgiveness from Yourself and have mercy upon me. Surely, You are The Most-Forgiving, The Most-Merciful.</translation>
+      <translation language="en">O Allāh, I have indeed oppressed my soul excessively and none can forgive sin except You, so forgive me a forgiveness from Yourself and have mercy upon me. Surely, You are The Most-Forgiving, The Most-Merciful.</translation>
+      <translation language="am">አላህ ሆይ፣ ራሴን በጣም በደልሁ፤ ኀጢአትን የሚያስተውል ከአንተ በቀር የለም፤ ከአንተ የሚመጣ ይቅርታ ስጠኝ፣ ምሕረትህንም ስጠኝ፤ አንተ በጣም ይቅር ባይና ሩህ ነህ።</translation>
       <reference>Al-Bukhārī (#7387, 8/168) and Muslim (#2705, 4/2078).</reference>
     </dua>
     <dua id="57">
       <arabic>للَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ</arabic>
-      <translation>O Allāh, forgive me for those sins which have come to pass as well as those which shall come to pass, and those I have committed in secret as well as those I have made public, and where I have exceeded all bounds as well as those things about which You are more knowledgeable. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshiped except You.</translation>
+      <translation language="en">O Allāh, forgive me for those sins which have come to pass as well as those which shall come to pass, and those I have committed in secret as well as those I have made public, and where I have exceeded all bounds as well as those things about which You are more knowledgeable. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshiped except You.</translation>
+      <translation language="am">አላህ ሆይ፣ ያስቀድማሁትንና ያልፈቀድማሁትን፣ በስውር ያደረግሁትንና በግልጽ ያደረግሁትን፣ ያመለክቻቸውን፣ አንተ ከእኔ የበለጠ የምታውቀውን ሁሉ ይቅር በል። አንተ የምቀድምና የምቀር ነህ፤ ለመምሰግን የሚገባ አንተ ብቻ ነህ።</translation>
       <reference>Muslim (#771, 1/534).</reference>
     </dua>
     <dua id="58">
       <arabic>اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ</arabic>
-      <translation>O Allāh, help me to remember You, to thank You, and to worship You in the best of manners.</translation>
+      <translation language="en">O Allāh, help me to remember You, to thank You, and to worship You in the best of manners.</translation>
+      <translation language="am">አላህ ሆይ፣ እንድስታውስህ፣ እንድምስግንህ፣ በምርጥ መንገድም እንድቀርብልህ ረዳኝ።</translation>
       <reference>Abū Dāwud (#1522, 2/86) and al-Nasāʾī (3/53). Al-Albānī authenticated it in <em>Ṣaḥīḥ Abī Dāwud</em> (1/284).</reference>
     </dua>
     <dua id="59">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ البُخْلِ، وَأَعُوذُبِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأعُوذُبِكَ مِنْ عَذَابِ الْقَبْرِ</arabic>
-      <translation>O Allāh, I take refuge in You from miserliness and cowardice, I take refuge in You lest I be returned to the worst of lives. And I take refuge in You from the trails and tribulations of this life and the punishment of the grave.</translation>
+      <translation language="en">O Allāh, I take refuge in You from miserliness and cowardice, I take refuge in You lest I be returned to the worst of lives. And I take refuge in You from the trails and tribulations of this life and the punishment of the grave.</translation>
+      <translation language="am">አላህ ሆይ፣ ከአመጋገትና ከፍርሀት ወደ አንተ መጠጊያ እፈልጋለሁ፤ ወደ አዳጋ ዕድሜ እንዳልመለስ ወደ አንተ መጠጊያ እፈልጋለሁ፤ ከዓለም ፈተናና ከመቃብር ቅጣት ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference>Al-Bukhārī (#2822, 6/35).</reference>
     </dua>
     <dua id="60">
       <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنْ النَّارِ</arabic>
-      <translation>O Allāh, I ask You to grant me Paradise and I take refuge in You from the Fire.</translation>
+      <translation language="en">O Allāh, I ask You to grant me Paradise and I take refuge in You from the Fire.</translation>
+      <translation language="am">አላህ ሆይ፣ ገነትን እለምንሃለሁ፣ ከእሳትም ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference>Abū Dāwud (#792) and Ibn Mājah, see <em>Ṣaḥīḥ Ibn Mājah</em> (2/328).</reference>
     </dua>
     <dua id="61">
       <arabic>اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ؛ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيماً لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ تَنْقَطِعُ، وَأَسْأَلُكَ الرَّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيَّنَّا بِزِينَةِ الإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ</arabic>
-      <translation>O Allāh, by Your knowledge of the unseen and Your power over creation, keep me alive so long as You know such life to be good for me and take me if You know death to be better for me. O Allāh, make me fearful of You whether in secret or in public and I ask You to make me true in speech, in times of pleasure and anger. I ask you to make me moderate in times of wealth and poverty and I ask You for everlasting bliss and joy which will never cease. I ask You to make me pleased with what You have decreed and for an easy life after death. I ask You for the sweetness of looking upon Your Face and a longing to encounter You in a manner which does not entail a calamity which will bring about harm nr a trial which will cause deviation. O Allāh, beautify us with the adornment of faith and make us of those who guide and are rightly guided.</translation>
+      <translation language="en">O Allāh, by Your knowledge of the unseen and Your power over creation, keep me alive so long as You know such life to be good for me and take me if You know death to be better for me. O Allāh, make me fearful of You whether in secret or in public and I ask You to make me true in speech, in times of pleasure and anger. I ask you to make me moderate in times of wealth and poverty and I ask You for everlasting bliss and joy which will never cease. I ask You to make me pleased with what You have decreed and for an easy life after death. I ask You for the sweetness of looking upon Your Face and a longing to encounter You in a manner which does not entail a calamity which will bring about harm nr a trial which will cause deviation. O Allāh, beautify us with the adornment of faith and make us of those who guide and are rightly guided.</translation>
+      <translation language="am">አላህ ሆይ፣ ከምስጢር እውቀትህና ከፍጥረት ላይ ያለው ኀይልህ በተነሳ፣ ሕይወቴ ለእኔ መልካም እንደሆነ ከታወቀው ጊዜ ድረስ አኖርኝ፣ ሞት የተሻለ እንደሆነም ካወቅህ አውርደኝ። አላህ ሆይ፣ በስውርና በግልጽ ከአንተ መፍራት አድርገኝ፣ በሐሴትና በቁጣ ጊዜ የእውነት ቃል እንድናገር ስጠኝ፣ በባለጠግነትና በድሀነት ውስጥ መጠነኛ አድርገኝ። የማይጠፋ ደስታና ዘላለማዊ ደስታ እለምንሃለሁ፤ ከፍርድህ በኋላ ልግባትን እለምንሃለሁ፣ ከሞት በኋላም የሚያስደስተኝ ሕይወት። ወደ ፊትህ መመልከት የሚሰጠውን ጣፋጭነት እና ለመገናኘትህ የምናዳልበትን ምኞት እለምንሃለሁ፣ ጉዳት ወይም አሳሳት የማያመጣ መንገድ በመሆን። አላህ ሆይ፣ በእምነት ጌጥ አስዋብን፣ መምራችና ትክክለኛ ምራች አድርገን።</translation>
       <reference>Al-Nasāʾī (#55, 4/54) and Aḥmad (4/364). Al-Albānī authenticated it in <em>Ṣaḥīḥ Al-Nasāʾī</em> (1/281).</reference>
     </dua>
     <dua id="62">
       <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الأَحَدُ الصَّمَدُ، الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ</arabic>
-      <translation>O Allāh, I ask You O Allāh—as You are The One, The Only, al-Ṣamad, The One who begets not, nor was He begotten and there is none like unto Him—that You forgive me my sins for verily You are The Oft-Forgiving, Most-Merciful.</translation>
+      <translation language="en">O Allāh, I ask You O Allāh—as You are The One, The Only, al-Ṣamad, The One who begets not, nor was He begotten and there is none like unto Him—that You forgive me my sins for verily You are The Oft-Forgiving, Most-Merciful.</translation>
+      <translation language="am">አላህ ሆይ፣ አንተ አንዱ፣ ብቸኛው፣ አል-ሳማድ ነህ፤ አባት የሌለው፣ ልጅ የሌለው፣ የሚያድምርህ የሌለው፤ ኀጢአቴን ይቅር በል፤ እርግጥ አንተ በጣም ይቅር ባይና ሩህ ነህ።</translation>
       <reference>Al-Nasāʾī (3/52) and Aḥmad (4/238). Al-Albānī authenticated it in <em>Ṣaḥīḥ al-Nasāʾī</em> (1/280).</reference>
     </dua>
     <dua id="63">
       <arabic>اللَّهُمَّ إِنِّي أَسأَلُكَ بِأَنَّ لَكَ الْحَمْدُ، لَا إِلَهَ إِلَّا أَنْتَ، وَحْدَكَ لَا شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيْعَ السَّمَوَاتِ وَالأَرْضِ، يَاذَا الْجَلالِ وَالإكْرَامِ، يَاحَيُّ يَاقَيُّومُ، إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ</arabic>
-      <translation>O Allāh, I ask You as unto You is all praise, none has the right to be worshiped except You, alone, without partner. You are the Benefactor. O Originator of the heavens and the earth, O possessor of majesty and honor, O Ever Living, O Self-Subsisting and Supporter of all, verily I ask You for Paradise and I take refuge with You from the Fire.</translation>
+      <translation language="en">O Allāh, I ask You as unto You is all praise, none has the right to be worshiped except You, alone, without partner. You are the Benefactor. O Originator of the heavens and the earth, O possessor of majesty and honor, O Ever Living, O Self-Subsisting and Supporter of all, verily I ask You for Paradise and I take refuge with You from the Fire.</translation>
+      <translation language="am">አላህ ሆይ፣ ምስጋና ሁሉ የአንተ ነው፤ ለመምሰግን የሚገባ አንተ ብቻ ነህ፣ አጋር የለህም። አንተ ሞገስ ሁሉ የምትሰጥ ነህ፤ የሰማያትንና ምድርን መነሻ ያደረግህ፤ የክብርና የምስጋና ባለቤት፣ ህያው፣ ራሱን የሚያጠብቀው ነህ። በእርግጥ ገነትን እለምንሃለሁ፣ ከእሳትም ወደ አንተ መጠጊያ እፈልጋለሁ።</translation>
       <reference>Abū Dāwud (#1495), al-Nasāʾī (3/52), Ibn Mājah (#3858) and al-Tirmidhī (#3544). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/329).</reference>
     </dua>
     <dua id="64">
       <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ، الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ</arabic>
-      <translation>O Allāh, I ask You, as I bear witness that You are Allāh, none has the right to be worshiped except You, The One, al-Ṣamad Who begets not nor was He begotten and there is none like unto Him.</translation>
+      <translation language="en">O Allāh, I ask You, as I bear witness that You are Allāh, none has the right to be worshiped except You, The One, al-Ṣamad Who begets not nor was He begotten and there is none like unto Him.</translation>
+      <translation language="am">አላህ ሆይ፣ አንተ አላህ እንደሆንህ፣ ለመምሰግን የሚገባ አንተ ብቻ እንደሆንህ፣ አንዱ፣ ሳማድ፣ አባት የሌለው፣ ልጅ የሌለው፣ የሚያድምርህ የሌለው መሆንህን እመሰክራለሁ እንዲሁም እጠይቃለሁ።</translation>
       <reference>Abū Dāwud (#1493, 2/62), al-Tirmidhī (#3475, 5/515), Ibn Mājah (#3857, 2/1267) and Aḥmad (5/360). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/329) and <em>Ṣaḥīḥ al-Tirmidhī</em> (3/163).</reference>
     </dua>
-  </group>
-  <group id="25">
-    <title language="en">Remembrance after the Taslīm</title>
-    <title language="am">ታስሊም ከተባለ በኋላ ዝክር</title>
   </group>
 </hisnulmuslim>
