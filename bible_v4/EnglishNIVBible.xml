@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bible translation="English NIV">
   <testament name="Old">
-    <book number="1">
+    <book number="1" name="Genesis">
       <chapter number="1">
         <verse number="1">In the beginning God created the heavens and the earth.</verse>
         <verse number="2">Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.</verse>
@@ -1636,7 +1636,7 @@
         <verse number="26">So Joseph died at the age of a hundred and ten. And after they embalmed him, he was placed in a coffin in Egypt.</verse>
       </chapter>
     </book>
-    <book number="2">
+    <book number="2" name="Exodus">
       <chapter number="1">
         <verse number="1">These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:</verse>
         <verse number="2">Reuben, Simeon, Levi and Judah;</verse>
@@ -2931,7 +2931,7 @@
         <verse number="38">So the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel during all their travels.</verse>
       </chapter>
     </book>
-    <book number="3">
+    <book number="3" name="Leviticus">
       <chapter number="1">
         <verse number="1">The LORD called to Moses and spoke to him from the Tent of Meeting. He said,</verse>
         <verse number="2">"Speak to the Israelites and say to them: 'When any of you brings an offering to the LORD, bring as your offering an animal from either the herd or the flock.</verse>
@@ -3846,7 +3846,7 @@
         <verse number="34">These are the commands the LORD gave Moses on Mount Sinai for the Israelites.</verse>
       </chapter>
     </book>
-    <book number="4">
+    <book number="4" name="Numbers">
       <chapter number="1">
         <verse number="1">The LORD spoke to Moses in the Tent of Meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:</verse>
         <verse number="2">"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.</verse>
@@ -5208,7 +5208,7 @@
         <verse number="13">These are the commands and regulations the LORD gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.</verse>
       </chapter>
     </book>
-    <book number="5">
+    <book number="5" name="Deuteronomy">
       <chapter number="1">
         <verse number="1">These are the words Moses spoke to all Israel in the desert east of the Jordan-that is, in the Arabah-opposite Suph, between Paran and Tophel, Laban, Hazeroth and Dizahab.</verse>
         <verse number="2">(It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)</verse>
@@ -6237,7 +6237,7 @@
         <verse number="12">For no one has ever shown the mighty power or performed the awesome deeds that Moses did in the sight of all Israel.</verse>
       </chapter>
     </book>
-    <book number="6">
+    <book number="6" name="Joshua">
       <chapter number="1">
         <verse number="1">After the death of Moses the servant of the LORD, the LORD said to Joshua son of Nun, Moses' aide:</verse>
         <verse number="2">"Moses my servant is dead. Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them-to the Israelites.</verse>
@@ -6945,7 +6945,7 @@
         <verse number="33">And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.</verse>
       </chapter>
     </book>
-    <book number="7">
+    <book number="7" name="Judges">
       <chapter number="1">
         <verse number="1">After the death of Joshua, the Israelites asked the LORD, "Who will be the first to go up and fight for us against the Canaanites?"</verse>
         <verse number="2">The LORD answered, "Judah is to go; I have given the land into their hands."</verse>
@@ -7607,7 +7607,7 @@
         <verse number="25">In those days Israel had no king; everyone did as he saw fit.</verse>
       </chapter>
     </book>
-    <book number="8">
+    <book number="8" name="Ruth">
       <chapter number="1">
         <verse number="1">In the days when the judges ruled, there was a famine in the land, and a man from Bethlehem in Judah, together with his wife and two sons, went to live for a while in the country of Moab.</verse>
         <verse number="2">The man's name was Elimelech, his wife's name Naomi, and the names of his two sons were Mahlon and Kilion. They were Ephrathites from Bethlehem, Judah. And they went to Moab and lived there.</verse>
@@ -7702,7 +7702,7 @@
         <verse number="22">Obed the father of Jesse, and Jesse the father of David.</verse>
       </chapter>
     </book>
-    <book number="9">
+    <book number="9" name="1 Samuel">
       <chapter number="1">
         <verse number="1">There was a certain man from Ramathaim, a Zuphite from the hill country of Ephraim, whose name was Elkanah son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.</verse>
         <verse number="2">He had two wives; one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.</verse>
@@ -8576,7 +8576,7 @@
         <verse number="13">Then they took their bones and buried them under a tamarisk tree at Jabesh, and they fasted seven days.</verse>
       </chapter>
     </book>
-    <book number="10">
+    <book number="10" name="2 Samuel">
       <chapter number="1">
         <verse number="1">After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.</verse>
         <verse number="2">On the third day a man arrived from Saul's camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honor.</verse>
@@ -9321,7 +9321,7 @@
         <verse number="25">David built an altar to the LORD there and sacrificed burnt offerings and fellowship offerings. Then the LORD answered prayer in behalf of the land, and the plague on Israel was stopped.</verse>
       </chapter>
     </book>
-    <book number="11">
+    <book number="11" name="1 Kings">
       <chapter number="1">
         <verse number="1">When King David was old and well advanced in years, he could not keep warm even when they put covers over him.</verse>
         <verse number="2">So his servants said to him, "Let us look for a young virgin to attend the king and take care of him. She can lie beside him so that our lord the king may keep warm."</verse>
@@ -10183,7 +10183,7 @@
         <verse number="53">He served and worshiped Baal and provoked the LORD, the God of Israel, to anger, just as his father had done.</verse>
       </chapter>
     </book>
-    <book number="12">
+    <book number="12" name="2 Kings">
       <chapter number="1">
         <verse number="1">After Ahab's death, Moab rebelled against Israel.</verse>
         <verse number="2">Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers, saying to them, "Go and consult Baal-Zebub, the god of Ekron, to see if I will recover from this injury."</verse>
@@ -10954,7 +10954,7 @@
         <verse number="30">Day by day the king gave Jehoiachin a regular allowance as long as he lived.</verse>
       </chapter>
     </book>
-    <book number="13">
+    <book number="13" name="1 Chronicles">
       <chapter number="1">
         <verse number="1">Adam, Seth, Enosh,</verse>
         <verse number="2">Kenan, Mahalalel, Jared,</verse>
@@ -11956,7 +11956,7 @@
         <verse number="30">together with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands.</verse>
       </chapter>
     </book>
-    <book number="14">
+    <book number="14" name="2 Chronicles">
       <chapter number="1">
         <verse number="1">Solomon son of David established himself firmly over his kingdom, for the LORD his God was with him and made him exceedingly great.</verse>
         <verse number="2">Then Solomon spoke to all Israel-to the commanders of thousands and commanders of hundreds, to the judges and to all the leaders in Israel, the heads of families-</verse>
@@ -12852,7 +12852,7 @@
         <verse number="23">"This is what Cyrus king of Persia says: "'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Anyone of his people among you-may the LORD his God be with him, and let him go up.'"</verse>
       </chapter>
     </book>
-    <book number="15">
+    <book number="15" name="Ezra">
       <chapter number="1">
         <verse number="1">In the first year of Cyrus king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and to put it in writing:</verse>
         <verse number="2">"This is what Cyrus king of Persia says: "'The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.</verse>
@@ -13154,7 +13154,7 @@
         <verse number="44">All these had married foreign women, and some of them had children by these wives.</verse>
       </chapter>
     </book>
-    <book number="16">
+    <book number="16" name="Nehemiah">
       <chapter number="1">
         <verse number="1">The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,</verse>
         <verse number="2">Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that survived the exile, and also about Jerusalem.</verse>
@@ -13588,7 +13588,7 @@
         <verse number="31">I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favor, O my God.</verse>
       </chapter>
     </book>
-    <book number="17">
+    <book number="17" name="Esther">
       <chapter number="1">
         <verse number="1">This is what happened during the time of Xerxes, the Xerxes who ruled over 127 provinces stretching from India to Cush:</verse>
         <verse number="2">At that time King Xerxes reigned from his royal throne in the citadel of Susa,</verse>
@@ -13777,7 +13777,7 @@
         <verse number="3">Mordecai the Jew was second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews.</verse>
       </chapter>
     </book>
-    <book number="18">
+    <book number="18" name="Job">
       <chapter number="1">
         <verse number="1">In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.</verse>
         <verse number="2">He had seven sons and three daughters,</verse>
@@ -14933,7 +14933,7 @@
         <verse number="17">And so he died, old and full of years.</verse>
       </chapter>
     </book>
-    <book number="19">
+    <book number="19" name="Psalms">
       <chapter number="1">
         <verse number="1">Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers.</verse>
         <verse number="2">But his delight is in the law of the LORD, and on his law he meditates day and night.</verse>
@@ -17696,7 +17696,7 @@
         <verse number="6">Let everything that has breath praise the LORD. Praise the LORD.</verse>
       </chapter>
     </book>
-    <book number="20">
+    <book number="20" name="Proverbs">
       <chapter number="1">
         <verse number="1">The proverbs of Solomon son of David, king of Israel:</verse>
         <verse number="2">for attaining wisdom and discipline; for understanding words of insight;</verse>
@@ -18675,7 +18675,7 @@
         <verse number="31">Give her the reward she has earned, and let her works bring her praise at the city gate.</verse>
       </chapter>
     </book>
-    <book number="21">
+    <book number="21" name="Ecclesiastes">
       <chapter number="1">
         <verse number="1">The words of the Teacher, son of David, king in Jerusalem:</verse>
         <verse number="2">"Meaningless! Meaningless!" says the Teacher. "Utterly meaningless! Everything is meaningless."</verse>
@@ -18923,7 +18923,7 @@
         <verse number="14">For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.</verse>
       </chapter>
     </book>
-    <book number="22">
+    <book number="22" name="Song of Songs">
       <chapter number="1">
         <verse number="1">Solomon's Song of Songs.</verse>
         <verse number="2">Let him kiss me with the kisses of his mouth- for your love is more delightful than wine.</verse>
@@ -19058,7 +19058,7 @@
         <verse number="14">Come away, my lover, and be like a gazelle or like a young stag on the spice-laden mountains.</verse>
       </chapter>
     </book>
-    <book number="23">
+    <book number="23" name="Isaiah">
       <chapter number="1">
         <verse number="1">The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.</verse>
         <verse number="2">Hear, O heavens! Listen, O earth! For the LORD has spoken: "I reared children and brought them up, but they have rebelled against me.</verse>
@@ -20484,7 +20484,7 @@
         <verse number="24">"And they will go out and look upon the dead bodies of those who rebelled against me; their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind."</verse>
       </chapter>
     </book>
-    <book number="24">
+    <book number="24" name="Jeremiah">
       <chapter number="1">
         <verse number="1">The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin.</verse>
         <verse number="2">The word of the LORD came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah,</verse>
@@ -21954,7 +21954,7 @@
         <verse number="34">Day by day the king of Babylon gave Jehoiachin a regular allowance as long as he lived, till the day of his death.</verse>
       </chapter>
     </book>
-    <book number="25">
+    <book number="25" name="Lamentations">
       <chapter number="1">
         <verse number="1">How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave.</verse>
         <verse number="2">Bitterly she weeps at night, tears are upon her cheeks. Among all her lovers there is none to comfort her. All her friends have betrayed her; they have become her enemies.</verse>
@@ -22120,7 +22120,7 @@
         <verse number="22">unless you have utterly rejected us and are angry with us beyond measure.</verse>
       </chapter>
     </book>
-    <book number="26">
+    <book number="26" name="Ezekiel">
       <chapter number="1">
         <verse number="1">In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.</verse>
         <verse number="2">On the fifth of the month-it was the fifth year of the exile of King Jehoiachin-</verse>
@@ -23491,7 +23491,7 @@
         <verse number="35">"The distance all around will be 18,000 cubits. "And the name of the city from that time on will be: The LORD is There."</verse>
       </chapter>
     </book>
-    <book number="27">
+    <book number="27" name="Daniel">
       <chapter number="1">
         <verse number="1">In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.</verse>
         <verse number="2">And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the articles from the temple of God. These he carried off to the temple of his god in Babylonia and put in the treasure house of his god.</verse>
@@ -23874,7 +23874,7 @@
         <verse number="13">"As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance."</verse>
       </chapter>
     </book>
-    <book number="28">
+    <book number="28" name="Hosea">
       <chapter number="1">
         <verse number="1">The word of the LORD that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash king of Israel:</verse>
         <verse number="2">When the LORD began to speak through Hosea, the LORD said to him, "Go, take to yourself an adulterous wife and children of unfaithfulness, because the land is guilty of the vilest adultery in departing from the LORD."</verse>
@@ -24101,7 +24101,7 @@
         <verse number="9">Who is wise? He will realize these things. Who is discerning? He will understand them. The ways of the LORD are right; the righteous walk in them, but the rebellious stumble in them.</verse>
       </chapter>
     </book>
-    <book number="29">
+    <book number="29" name="Joel">
       <chapter number="1">
         <verse number="1">The word of the LORD that came to Joel son of Pethuel.</verse>
         <verse number="2">Hear this, you elders; listen, all who live in the land. Has anything like this ever happened in your days or in the days of your forefathers?</verse>
@@ -24182,7 +24182,7 @@
         <verse number="21">Their bloodguilt, which I have not pardoned, I will pardon." The LORD dwells in Zion!</verse>
       </chapter>
     </book>
-    <book number="30">
+    <book number="30" name="Amos">
       <chapter number="1">
         <verse number="1">The words of Amos, one of the shepherds of Tekoa-what he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.</verse>
         <verse number="2">He said: "The LORD roars from Zion and thunders from Jerusalem; the pastures of the shepherds dry up, and the top of Carmel withers."</verse>
@@ -24348,7 +24348,7 @@
         <verse number="15">I will plant Israel in their own land, never again to be uprooted from the land I have given them," says the LORD your God.</verse>
       </chapter>
     </book>
-    <book number="31">
+    <book number="31" name="Obadiah">
       <chapter number="1">
         <verse number="1">The vision of Obadiah. This is what the Sovereign LORD says about Edom- We have heard a message from the LORD: An envoy was sent to the nations to say, "Rise, and let us go against her for battle"-</verse>
         <verse number="2">"See, I will make you small among the nations; you will be utterly despised.</verse>
@@ -24373,7 +24373,7 @@
         <verse number="21">Deliverers will go up on Mount Zion to govern the mountains of Esau. And the kingdom will be the LORD's.</verse>
       </chapter>
     </book>
-    <book number="32">
+    <book number="32" name="Jonah">
       <chapter number="1">
         <verse number="1">The word of the LORD came to Jonah son of Amittai:</verse>
         <verse number="2">"Go to the great city of Nineveh and preach against it, because its wickedness has come up before me."</verse>
@@ -24431,7 +24431,7 @@
         <verse number="11">But Nineveh has more than a hundred and twenty thousand people who cannot tell their right hand from their left, and many cattle as well. Should I not be concerned about that great city?"</verse>
       </chapter>
     </book>
-    <book number="33">
+    <book number="33" name="Micah">
       <chapter number="1">
         <verse number="1">The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah-the vision he saw concerning Samaria and Jerusalem.</verse>
         <verse number="2">Hear, O peoples, all of you, listen, O earth and all who are in it, that the Sovereign LORD may witness against you, the Lord from his holy temple.</verse>
@@ -24552,7 +24552,7 @@
         <verse number="20">You will be true to Jacob, and show mercy to Abraham, as you pledged on oath to our fathers in days long ago.</verse>
       </chapter>
     </book>
-    <book number="34">
+    <book number="34" name="Nahum">
       <chapter number="1">
         <verse number="1">An oracle concerning Nineveh. The book of the vision of Nahum the Elkoshite.</verse>
         <verse number="2">The LORD is a jealous and avenging God; the LORD takes vengeance and is filled with wrath. The LORD takes vengeance on his foes and maintains his wrath against his enemies.</verse>
@@ -24607,7 +24607,7 @@
         <verse number="19">Nothing can heal your wound; your injury is fatal. Everyone who hears the news about you claps his hands at your fall, for who has not felt your endless cruelty?</verse>
       </chapter>
     </book>
-    <book number="35">
+    <book number="35" name="Habakkuk">
       <chapter number="1">
         <verse number="1">The oracle that Habakkuk the prophet received.</verse>
         <verse number="2">How long, O LORD, must I call for help, but you do not listen? Or cry out to you, "Violence!" but you do not save?</verse>
@@ -24671,7 +24671,7 @@
         <verse number="19">The Sovereign LORD is my strength; he makes my feet like the feet of a deer, he enables me to go on the heights. For the director of music. On my stringed instruments.</verse>
       </chapter>
     </book>
-    <book number="36">
+    <book number="36" name="Zephaniah">
       <chapter number="1">
         <verse number="1">The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:</verse>
         <verse number="2">"I will sweep away everything from the face of the earth," declares the LORD.</verse>
@@ -24732,7 +24732,7 @@
         <verse number="20">At that time I will gather you; at that time I will bring you home. I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your very eyes," says the LORD.</verse>
       </chapter>
     </book>
-    <book number="37">
+    <book number="37" name="Haggai">
       <chapter number="1">
         <verse number="1">In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:</verse>
         <verse number="2">This is what the LORD Almighty says: "These people say, 'The time has not yet come for the LORD's house to be built.'"</verse>
@@ -24776,7 +24776,7 @@
         <verse number="23">"'On that day,' declares the LORD Almighty, 'I will take you, my servant Zerubbabel son of Shealtiel,' declares the LORD, 'and I will make you like my signet ring, for I have chosen you,' declares the LORD Almighty."</verse>
       </chapter>
     </book>
-    <book number="38">
+    <book number="38" name="Zechariah">
       <chapter number="1">
         <verse number="1">In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berekiah, the son of Iddo:</verse>
         <verse number="2">"The LORD was very angry with your forefathers.</verse>
@@ -25017,7 +25017,7 @@
         <verse number="21">Every pot in Jerusalem and Judah will be holy to the LORD Almighty, and all who come to sacrifice will take some of the pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD Almighty.</verse>
       </chapter>
     </book>
-    <book number="39">
+    <book number="39" name="Malachi">
       <chapter number="1">
         <verse number="1">An oracle: The word of the LORD to Israel through Malachi.</verse>
         <verse number="2">"I have loved you," says the LORD. "But you ask, 'How have you loved us?'"Was not Esau Jacob's brother?" the LORD says. "Yet I have loved Jacob,</verse>
@@ -25084,7 +25084,7 @@
     </book>
   </testament>
   <testament name="New">
-    <book number="40">
+    <book number="40" name="Matthew">
       <chapter number="1">
         <verse number="1">A record of the genealogy of Jesus Christ the son of David, the son of Abraham:</verse>
         <verse number="2">Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers,</verse>
@@ -26213,7 +26213,7 @@
         <verse number="20">and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."</verse>
       </chapter>
     </book>
-    <book number="41">
+    <book number="41" name="Mark">
       <chapter number="1">
         <verse number="1">The beginning of the gospel about Jesus Christ, the Son of God.</verse>
         <verse number="2">It is written in Isaiah the prophet: "I will send my messenger ahead of you, who will prepare your way"--</verse>
@@ -26925,7 +26925,7 @@
         <verse number="20">Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it.</verse>
       </chapter>
     </book>
-    <book number="42">
+    <book number="42" name="Luke">
       <chapter number="1">
         <verse number="1">Many have undertaken to draw up an account of the things that have been fulfilled among us,</verse>
         <verse number="2">just as they were handed down to us by those who from the first were eyewitnesses and servants of the word.</verse>
@@ -28126,7 +28126,7 @@
         <verse number="53">And they stayed continually at the temple, praising God.</verse>
       </chapter>
     </book>
-    <book number="43">
+    <book number="43" name="John">
       <chapter number="1">
         <verse number="1">In the beginning was the Word, and the Word was with God, and the Word was God.</verse>
         <verse number="2">He was with God in the beginning.</verse>
@@ -29049,7 +29049,7 @@
         <verse number="25">Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.</verse>
       </chapter>
     </book>
-    <book number="44">
+    <book number="44" name="Acts">
       <chapter number="1">
         <verse number="1">In my former book, Theophilus, I wrote about all that Jesus began to do and to teach</verse>
         <verse number="2">until the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.</verse>
@@ -30114,7 +30114,7 @@
         <verse number="31">Boldly and without hindrance he preached the kingdom of God and taught about the Lord Jesus Christ.</verse>
       </chapter>
     </book>
-    <book number="45">
+    <book number="45" name="Romans">
       <chapter number="1">
         <verse number="1">Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--</verse>
         <verse number="2">the gospel he promised beforehand through his prophets in the Holy Scriptures</verse>
@@ -30581,7 +30581,7 @@
         <verse number="27">to the only wise God be glory forever through Jesus Christ! Amen.</verse>
       </chapter>
     </book>
-    <book number="46">
+    <book number="46" name="1 Corinthians">
       <chapter number="1">
         <verse number="1">Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,</verse>
         <verse number="2">To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ--their Lord and ours:</verse>
@@ -31052,7 +31052,7 @@
         <verse number="24">My love to all of you in Christ Jesus. Amen.</verse>
       </chapter>
     </book>
-    <book number="47">
+    <book number="47" name="2 Corinthians">
       <chapter number="1">
         <verse number="1">Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:</verse>
         <verse number="2">Grace and peace to you from God our Father and the Lord Jesus Christ.</verse>
@@ -31337,7 +31337,7 @@
         <verse number="14">May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.</verse>
       </chapter>
     </book>
-    <book number="48">
+    <book number="48" name="Galatians">
       <chapter number="1">
         <verse number="1">Paul, an apostle--sent not from men nor by man, but by Jesus Christ and God the Father, who raised him from the dead--</verse>
         <verse number="2">and all the brothers with me, To the churches in Galatia:</verse>
@@ -31500,7 +31500,7 @@
         <verse number="18">The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.</verse>
       </chapter>
     </book>
-    <book number="49">
+    <book number="49" name="Ephesians">
       <chapter number="1">
         <verse number="1">Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:</verse>
         <verse number="2">Grace and peace to you from God our Father and the Lord Jesus Christ.</verse>
@@ -31669,7 +31669,7 @@
         <verse number="24">Grace to all who love our Lord Jesus Christ with an undying love.</verse>
       </chapter>
     </book>
-    <book number="50">
+    <book number="50" name="Philippians">
       <chapter number="1">
         <verse number="1">Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:</verse>
         <verse number="2">Grace and peace to you from God our Father and the Lord Jesus Christ.</verse>
@@ -31783,7 +31783,7 @@
         <verse number="23">The grace of the Lord Jesus Christ be with your spirit. Amen.</verse>
       </chapter>
     </book>
-    <book number="51">
+    <book number="51" name="Colossians">
       <chapter number="1">
         <verse number="1">Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,</verse>
         <verse number="2">To the holy and faithful brothers in Christ at Colosse: Grace and peace to you from God our Father.</verse>
@@ -31888,7 +31888,7 @@
         <verse number="18">I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.</verse>
       </chapter>
     </book>
-    <book number="52">
+    <book number="52" name="1 Thessalonians">
       <chapter number="1">
         <verse number="1">Paul, Silas and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.</verse>
         <verse number="2">We always thank God for all of you, mentioning you in our prayers.</verse>
@@ -31989,7 +31989,7 @@
         <verse number="28">The grace of our Lord Jesus Christ be with you.</verse>
       </chapter>
     </book>
-    <book number="53">
+    <book number="53" name="2 Thessalonians">
       <chapter number="1">
         <verse number="1">Paul, Silas and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:</verse>
         <verse number="2">Grace and peace to you from God the Father and the Lord Jesus Christ.</verse>
@@ -32044,7 +32044,7 @@
         <verse number="18">The grace of our Lord Jesus Christ be with you all.</verse>
       </chapter>
     </book>
-    <book number="54">
+    <book number="54" name="1 Timothy">
       <chapter number="1">
         <verse number="1">Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,</verse>
         <verse number="2">To Timothy my true son in the faith: Grace, mercy and peace from God the Father and Christ Jesus our Lord.</verse>
@@ -32171,7 +32171,7 @@
         <verse number="21">which some have professed and in so doing have wandered from the faith. Grace be with you.</verse>
       </chapter>
     </book>
-    <book number="55">
+    <book number="55" name="2 Timothy">
       <chapter number="1">
         <verse number="1">Paul, an apostle of Christ Jesus by the will of God, according to the promise of life that is in Christ Jesus,</verse>
         <verse number="2">To Timothy, my dear son: Grace, mercy and peace from God the Father and Christ Jesus our Lord.</verse>
@@ -32264,7 +32264,7 @@
         <verse number="22">The Lord be with your spirit. Grace be with you.</verse>
       </chapter>
     </book>
-    <book number="56">
+    <book number="56" name="Titus">
       <chapter number="1">
         <verse number="1">Paul, a servant of God and an apostle of Jesus Christ for the faith of God's elect and the knowledge of the truth that leads to godliness--</verse>
         <verse number="2">a faith and knowledge resting on the hope of eternal life, which God, who does not lie, promised before the beginning of time,</verse>
@@ -32318,7 +32318,7 @@
         <verse number="15">Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.</verse>
       </chapter>
     </book>
-    <book number="57">
+    <book number="57" name="Philemon">
       <chapter number="1">
         <verse number="1">Paul, a prisoner of Christ Jesus, and Timothy our brother,</verse>
         <verse number="2">To Philemon our dear friend and fellow worker, to Apphia our sister, to Archippus our fellow soldier and to the church that meets in your home:</verse>
@@ -32347,7 +32347,7 @@
         <verse number="25">The grace of the Lord Jesus Christ be with your spirit.</verse>
       </chapter>
     </book>
-    <book number="58">
+    <book number="58" name="Hebrews">
       <chapter number="1">
         <verse number="1">In the past God spoke to our forefathers through the prophets at many times and in various ways,</verse>
         <verse number="2">but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom he made the universe.</verse>
@@ -32678,7 +32678,7 @@
         <verse number="25">Grace be with you all.</verse>
       </chapter>
     </book>
-    <book number="59">
+    <book number="59" name="James">
       <chapter number="1">
         <verse number="1">James, a servant of God and of the Lord Jesus Christ, To the twelve tribes scattered among the nations: Greetings.</verse>
         <verse number="2">Consider it pure joy, my brothers, whenever you face trials of many kinds,</verse>
@@ -32798,7 +32798,7 @@
         <verse number="20">remember this: Whoever turns a sinner from the error of his way will save him from death and cover over a multitude of sins.</verse>
       </chapter>
     </book>
-    <book number="60">
+    <book number="60" name="1 Peter">
       <chapter number="1">
         <verse number="1">Peter, an apostle of Jesus Christ, To God's elect, strangers in the world, scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia,</verse>
         <verse number="2">who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, for obedience to Jesus Christ and sprinkling by his blood: Grace and peace be yours in abundance.</verse>
@@ -32915,7 +32915,7 @@
         <verse number="14">Greet one another with a kiss of love. Peace to all of you who are in Christ.</verse>
       </chapter>
     </book>
-    <book number="61">
+    <book number="61" name="2 Peter">
       <chapter number="1">
         <verse number="1">Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:</verse>
         <verse number="2">Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.</verse>
@@ -32984,7 +32984,7 @@
         <verse number="18">But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.</verse>
       </chapter>
     </book>
-    <book number="62">
+    <book number="62" name="1 John">
       <chapter number="1">
         <verse number="1">That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched--this we proclaim concerning the Word of life.</verse>
         <verse number="2">The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us.</verse>
@@ -33101,7 +33101,7 @@
         <verse number="21">Dear children, keep yourselves from idols.</verse>
       </chapter>
     </book>
-    <book number="63">
+    <book number="63" name="2 John">
       <chapter number="1">
         <verse number="1">The elder,</verse>
         <verse number="2">To the chosen lady and her children, whom I love in the truth--and not I only, but also all who know the truth--because of the truth, which lives in us and will be with us forever:</verse>
@@ -33118,7 +33118,7 @@
         <verse number="13">The children of your chosen sister send their greetings.</verse>
       </chapter>
     </book>
-    <book number="64">
+    <book number="64" name="3 John">
       <chapter number="1">
         <verse number="1">The elder, To my dear friend Gaius, whom I love in the truth.</verse>
         <verse number="2">Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.</verse>
@@ -33136,7 +33136,7 @@
         <verse number="14">I hope to see you soon, and we will talk face to face. Peace to you. The friends here send their greetings. Greet the friends there by name.</verse>
       </chapter>
     </book>
-    <book number="65">
+    <book number="65" name="Jude">
       <chapter number="1">
         <verse number="1">Jude, a servant of Jesus Christ and a brother of James, To those who have been called, who are loved by God the Father and kept by Jesus Christ:</verse>
         <verse number="2">Mercy, peace and love be yours in abundance.</verse>
@@ -33165,7 +33165,7 @@
         <verse number="25">to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.</verse>
       </chapter>
     </book>
-    <book number="66">
+    <book number="66" name="Revelation">
       <chapter number="1">
         <verse number="1">The revelation of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,</verse>
         <verse number="2">who testifies to everything he saw--that is, the word of God and the testimony of Jesus Christ.</verse>

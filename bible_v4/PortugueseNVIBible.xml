@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <bible translation="Portuguese NVI 2000" info="Nova Versão Internacional®, All rights reserved worldwide.">
   <testament name="Old">
-    <book number="1">
+    <book number="1" name="Gênesis">
       <chapter number="1">
         <verse number="1">No princípio Deus criou os céus e a terra.</verse>
         <verse number="2">Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.</verse>
@@ -1636,7 +1636,7 @@
         <verse number="26">Morreu José com a idade de cento e dez anos. E, depois de embalsamado, foi colocado num sarcófago no Egito.</verse>
       </chapter>
     </book>
-    <book number="2">
+    <book number="2" name="Êxodo">
       <chapter number="1">
         <verse number="1">São estes, pois, os nomes dos filhos de Israel que entraram com Jacó no Egito, cada um com a sua respectiva família:</verse>
         <verse number="2">Rúben, Simeão, Levi e Judá;</verse>
@@ -2931,7 +2931,7 @@
         <verse number="38">De dia a nuvem do Senhor ficava sobre o tabernáculo, e de noite havia fogo na nuvem, à vista de toda a nação de Israel, em todas as suas viagens.</verse>
       </chapter>
     </book>
-    <book number="3">
+    <book number="3" name="Levítico">
       <chapter number="1">
         <verse number="1">Da Tenda do Encontro o Senhor chamou Moisés e lhe ordenou:</verse>
         <verse number="2">"Diga o seguinte aos israelitas: Quando alguém trouxer um animal como oferta ao Senhor, que seja do gado ou do rebanho de ovelhas.</verse>
@@ -3846,7 +3846,7 @@
         <verse number="34">São esses os mandamentos que o Senhor ordenou a Moisés no monte Sinai para os israelitas.</verse>
       </chapter>
     </book>
-    <book number="4">
+    <book number="4" name="Números">
       <chapter number="1">
         <verse number="1">O Senhor falou a Moisés na Tenda do Encontro, no deserto do Sinai, no primeiro dia do segundo mês do segundo ano, depois que os israelitas saíram do Egito. Ele disse:</verse>
         <verse number="2">"Façam um recenseamento de toda a comunidade de Israel, pelos seus clãs e famílias, alistando todos os homens, um a um, pelo nome.</verse>
@@ -5208,7 +5208,7 @@
         <verse number="13">São esses os mandamentos e as ordenanças que o Senhor deu aos israelitas por intermédio de Moisés nas campinas de Moabe, junto ao Jordão, do outro lado de Jericó.</verse>
       </chapter>
     </book>
-    <book number="5">
+    <book number="5" name="Deuteronômio">
       <chapter number="1">
         <verse number="1">Estas são as palavras ditas por Moisés a todo o Israel no deserto, a leste do Jordão, na Arabá, defronte de Sufe, entre Parã e Tofel, Labã, Hazerote e Di-Zaabe.</verse>
         <verse number="2">Em onze dias se vai de Horebe a Cades-Barnéia pelo caminho dos montes de Seir.</verse>
@@ -6237,7 +6237,7 @@
         <verse number="12">Pois ninguém jamais mostrou tamanho poder como Moisés nem executou os feitos temíveis que Moisés realizou aos olhos de todo o Israel.</verse>
       </chapter>
     </book>
-    <book number="6">
+    <book number="6" name="Josué">
       <chapter number="1">
         <verse number="1">Depois da morte de Moisés, servo do Senhor, disse o Senhor a Josué, filho de Num, auxiliar de Moisés:</verse>
         <verse number="2">"Meu servo Moisés está morto. Agora, pois, você e todo este povo, preparem-se para atravessar o rio Jordão e entrar na terra que eu estou para dar aos israelitas.</verse>
@@ -6945,7 +6945,7 @@
         <verse number="33">Sucedeu também que Eleazar, filho de Arão, morreu e foi sepultado em Gibeá, que fora dada a seu filho Finéias, nos montes de Efraim.</verse>
       </chapter>
     </book>
-    <book number="7">
+    <book number="7" name="Juízes">
       <chapter number="1">
         <verse number="1">Depois da morte de Josué, os israelitas perguntaram ao Senhor: "Quem de nós será o primeiro a atacar os cananeus? "</verse>
         <verse number="2">O Senhor respondeu: "Judá será o primeiro; eu entreguei a terra em suas mãos".</verse>
@@ -7607,7 +7607,7 @@
         <verse number="25">Naquela época não havia rei em Israel; cada um fazia o que lhe parecia certo.</verse>
       </chapter>
     </book>
-    <book number="8">
+    <book number="8" name="Rute">
       <chapter number="1">
         <verse number="1">Na época dos juízes houve fome na terra. Um homem de Belém de Judá, com a mulher e os dois filhos, foi viver por algum tempo nas terras de Moabe.</verse>
         <verse number="2">O homem chamava-se Elimeleque, sua mulher Noemi e seus dois filhos Malom e Quiliom. Eram efrateus de Belém de Judá. Chegaram a Moabe, e lá ficaram.</verse>
@@ -7702,7 +7702,7 @@
         <verse number="22">Obede gerou Jessé; e Jessé gerou Davi.</verse>
       </chapter>
     </book>
-    <book number="9">
+    <book number="9" name="1 Samuel">
       <chapter number="1">
         <verse number="1">Havia certo homem de Ramataim, zufita, dos montes de Efraim, chamado Elcana, filho de Jeroão, neto de Eliú e bisneto de Toú, filho do efraimita Zufe.</verse>
         <verse number="2">Ele tinha duas mulheres; uma se chamava Ana, e a outra Penina. Penina tinha filhos, Ana, porém, não tinha.</verse>
@@ -8577,7 +8577,7 @@
         <verse number="13">Depois enterraram seus ossos debaixo de uma tamargueira em Jabes, e jejuaram por sete dias.</verse>
       </chapter>
     </book>
-    <book number="10">
+    <book number="10" name="2 Samuel">
       <chapter number="1">
         <verse number="1">Depois da morte de Saul, Davi retornou de sua vitória sobre os amalequitas. Fazia dois dias que ele estava em Ziclague</verse>
         <verse number="2">quando, no terceiro dia, chegou um homem que vinha do acampamento de Saul, com as roupas rasgadas e terra na cabeça. Ao aproximar-se de Davi, prostrou-se em terra, em sinal de respeito.</verse>
@@ -9322,7 +9322,7 @@
         <verse number="25">E Davi edificou ali um altar ao Senhor e ofereceu holocaustos e sacrifícios de comunhão. Então o Senhor aceitou as súplicas em favor da terra, e a praga parou de destruir Israel.</verse>
       </chapter>
     </book>
-    <book number="11">
+    <book number="11" name="1 Reis">
       <chapter number="1">
         <verse number="1">Quando o rei Davi envelheceu, já de idade bem avançada, cobriam-no de cobertores, mas ele não se aquecia.</verse>
         <verse number="2">Por isso os seus servos lhe propuseram: "Nós vamos procurar uma jovem virgem para servir e cuidar do rei. Ela se deitará ao seu lado, afim de aquecer o rei".</verse>
@@ -10184,7 +10184,7 @@
         <verse number="53">Prestou culto a Baal e adorou-o, e provocou a ira do Senhor, o Deus de Israel, como o seu pai tinha feito.</verse>
       </chapter>
     </book>
-    <book number="12">
+    <book number="12" name="2 Reis">
       <chapter number="1">
         <verse number="1">Depois da morte de Acabe, Moabe rebelou-se contra Israel.</verse>
         <verse number="2">Certo dia, Acazias caiu da sacada do seu quarto no palácio de Samaria, e ficou muito ferido. Então enviou mensageiros para consultar Baal-Zebube, deus de Ecrom, para saber se ele se recuperaria.</verse>
@@ -10955,7 +10955,7 @@
         <verse number="30">E diariamente, enquanto viveu, Joaquim recebeu uma pensão do rei.</verse>
       </chapter>
     </book>
-    <book number="13">
+    <book number="13" name="1 Crônicas">
       <chapter number="1">
         <verse number="1">Adão, Sete, Enos,</verse>
         <verse number="2">Cainã, Malaleel, Jarede,</verse>
@@ -11957,7 +11957,7 @@
         <verse number="30">incluindo os detalhes do seu reinado e do seu poder, e os acontecimentos relacionados a ele, com Israel e com os reinos das outras terras.</verse>
       </chapter>
     </book>
-    <book number="14">
+    <book number="14" name="2 Crônicas">
       <chapter number="1">
         <verse number="1">Salomão, filho de Davi, estabeleceu-se com firmeza sobre o seu reino, pois o Senhor, o seu Deus, estava com ele e tornou-o muito poderoso.</verse>
         <verse number="2">Salomão reuniu todo o Israel: os líderes de mil e de cem, os juízes, todos os líderes de Israel e os chefes de famílias.</verse>
@@ -12853,7 +12853,7 @@
         <verse number="23">"Assim declaro Ciro, rei da Pérsia: ‘O Senhor, o Deus dos céus, deu-me todos os reinos da terra e designou-me para construir-lhe um templo em Jerusalém, na terra de Judá. Quem dentre vocês pertencer ao seu povo vá para Jerusalém, e que o Senhor, o seu Deus, esteja com ele’ ".</verse>
       </chapter>
     </book>
-    <book number="15">
+    <book number="15" name="Esdras">
       <chapter number="1">
         <verse number="1">No primeiro ano do reinado de Ciro, rei da Pérsia, a fim de que se cumprisse a palavra do Senhor falada por Jeremias, o Senhor despertou o coração de Ciro, rei da Pérsia, para redigir uma proclamação e divulgá-la em todo o seu reino, nestes termos:</verse>
         <verse number="2">"Assim diz Ciro, rei da Pérsia: "O Senhor, o Deus dos céus, deu-me todos os reinos da terra e designou-me para construir um templo para ele em Jerusalém de Judá.</verse>
@@ -13155,7 +13155,7 @@
         <verse number="44">Todos esses tinham se casado com mulheres estrangeiras, e alguns deles tiveram filhos dessas mulheres.</verse>
       </chapter>
     </book>
-    <book number="16">
+    <book number="16" name="Neemias">
       <chapter number="1">
         <verse number="1">As palavras de Neemias, filho de Hacalias: No mês de quisleu, no vigésimo ano, enquanto eu estava na cidade de Susã,</verse>
         <verse number="2">Hanani, um dos meus irmãos, veio de Judá com alguns outros homens, e eu lhes perguntei acerca dos judeus que restaram, os sobreviventes do cativeiro, e também sobre Jerusalém.</verse>
@@ -13589,7 +13589,7 @@
         <verse number="31">Também estabeleci regras para as provisões de lenha, determinando as datas certas para serem trazidas, e para os primeiros frutos. Em tua bondade, lembra-te de mim, ó meu Deus.</verse>
       </chapter>
     </book>
-    <book number="17">
+    <book number="17" name="Ester">
       <chapter number="1">
         <verse number="1">Foi no tempo de Xerxes, que reinou sobre cento e vinte e sete províncias, desde a Índia até a Etiópia:</verse>
         <verse number="2">naquela época o rei Xerxes reinava em seu trono na cidadela de Susã</verse>
@@ -13778,7 +13778,7 @@
         <verse number="3">O judeu Mardoqueu foi o segundo na hierarquia, depois do rei Xerxes. Era homem importante entre os judeus e foi muito amado por todos os judeus, pois trabalhou para o bem do seu povo e promoveu o bem-estar de todos eles.</verse>
       </chapter>
     </book>
-    <book number="18">
+    <book number="18" name="Jó">
       <chapter number="1">
         <verse number="1">Na terra de Uz vivia um homem chamado Jó. Era homem íntegro e justo; temia a Deus e evitava o mal.</verse>
         <verse number="2">Tinha ele sete filhos e três filhas,</verse>
@@ -14934,7 +14934,7 @@
         <verse number="17">E então morreu, em idade muito avançada.</verse>
       </chapter>
     </book>
-    <book number="19">
+    <book number="19" name="Salmos">
       <chapter number="1">
         <verse number="1">Como é feliz aquele que não segue o conselho dos ímpios, não imita a conduta dos pecadores, nem se assenta na roda dos zombadores!</verse>
         <verse number="2">Ao contrário, sua satisfação está na lei do Senhor, e nessa lei medita dia e noite.</verse>
@@ -17697,7 +17697,7 @@
         <verse number="6">Tudo o que tem vida louve o Senhor! Aleluia!</verse>
       </chapter>
     </book>
-    <book number="20">
+    <book number="20" name="Provérbios">
       <chapter number="1">
         <verse number="1">Estes são os provérbios de Salomão, filho de Davi, rei de Israel.</verse>
         <verse number="2">Eles ajudarão a experimentar a sabedoria e a disciplina; a compreender as palavras que dão entendimento;</verse>
@@ -18676,7 +18676,7 @@
         <verse number="31">Que ela receba a recompensa merecida, e as suas obras sejam elogiadas à porta da cidade.</verse>
       </chapter>
     </book>
-    <book number="21">
+    <book number="21" name="Eclesiastes">
       <chapter number="1">
         <verse number="1">As palavras do Mestre, filho de Davi, rei em Jerusalém:</verse>
         <verse number="2">"Que grande inutilidade! ", diz o Mestre. "Que grande inutilidade! Nada faz sentido! "</verse>
@@ -18924,7 +18924,7 @@
         <verse number="14">Pois Deus trará a julgamento tudo o que foi feito, inclusive tudo o que está escondido, seja bom, seja mal.</verse>
       </chapter>
     </book>
-    <book number="22">
+    <book number="22" name="Cântico dos Cânticos">
       <chapter number="1">
         <verse number="1">Cântico dos Cânticos de Salomão.</verse>
         <verse number="2">Ah, se ele me beijasse, se a sua boca me cobrisse de beijos... Sim, as suas carícias são mais agradáveis que o vinho.</verse>
@@ -19059,7 +19059,7 @@
         <verse number="14">Venha depressa, meu amado, e seja como uma gazela, ou como um cervo novo saltando sobre os montes carregados de especiarias.</verse>
       </chapter>
     </book>
-    <book number="23">
+    <book number="23" name="Isaías">
       <chapter number="1">
         <verse number="1">Visão que Isaías, filho de Amoz, teve a respeito de Judá e Jerusalém durante os reinados de Uzias, Jotão, Acaz e Ezequias, reis de Judá.</verse>
         <verse number="2">Ouçam, ó céus! Escute, ó terra! Pois o Senhor falou: "Criei filhos e os fiz crescer, mas eles se revoltaram contra mim.</verse>
@@ -20485,7 +20485,7 @@
         <verse number="24">"Sairão e verão os cadáveres dos que se rebelaram contra mim; o seu verme não morrerá, e o seu fogo não se apagará, e causarão repugnância a toda a humanidade. "</verse>
       </chapter>
     </book>
-    <book number="24">
+    <book number="24" name="Jeremias">
       <chapter number="1">
         <verse number="1">As palavras de Jeremias, filho de Hilquias, um dos sacerdotes de Anatote, no território de Benjamim.</verse>
         <verse number="2">A palavra do Senhor veio a ele no décimo terceiro ano do reinado de Josias, filho de Amom, rei de Judá,</verse>
@@ -21955,7 +21955,7 @@
         <verse number="34">Dia após dia o rei da Babilônia deu a Joaquim uma pensão diária enquanto ele viveu, até o dia de sua morte.</verse>
       </chapter>
     </book>
-    <book number="25">
+    <book number="25" name="Lamentações">
       <chapter number="1">
         <verse number="1">Como está deserta a cidade, antes tão cheia de gente! Como se parece com uma viúva, a que antes era grandiosa entre as nações! A que era a princesa das províncias agora tornou-se uma escrava.</verse>
         <verse number="2">Chora amargamente à noite, as lágrimas rolam por seu rosto. De todos os seus amantes nenhum a consola. Todos os seus amigos a traíram; tornaram-se seus inimigos.</verse>
@@ -22121,7 +22121,7 @@
         <verse number="22">a não ser que já nos tenhas rejeitado completamente e a tua ira contra nós não tenha limite!</verse>
       </chapter>
     </book>
-    <book number="26">
+    <book number="26" name="Ezequiel">
       <chapter number="1">
         <verse number="1">Era o quinto dia do quarto mês do trigésimo ano, e eu estava entre os exilados, junto ao rio Quebar. Abriram-se os céus, e eu tive visões de Deus.</verse>
         <verse number="2">Foi no quinto ano do exílio do rei Joaquim, no quinto dia do quarto mês.</verse>
@@ -23492,7 +23492,7 @@
         <verse number="35">"A distância total ao redor será de nove quilômetros. E daquele momento em diante, o nome da cidade será: O SENHOR ESTÁ AQUI. "</verse>
       </chapter>
     </book>
-    <book number="27">
+    <book number="27" name="Daniel">
       <chapter number="1">
         <verse number="1">No terceiro ano do reinado de Jeoaquim, rei de Judá, Nabucodonosor, rei da Babilônia, veio a Jerusalém e a sitiou.</verse>
         <verse number="2">E o Senhor entregou Jeoaquim, rei de Judá, nas suas mãos, e também alguns dos utensílios do templo de Deus. Ele levou os utensílios para o templo do seu deus na terra de Sinear e os colocou na casa do tesouro do seu deus.</verse>
@@ -23875,7 +23875,7 @@
         <verse number="13">"Quanto a você, siga o seu caminho até o fim. Você descansará, e então, no final dos dias, você se levantará para receber a herança que lhe cabe".</verse>
       </chapter>
     </book>
-    <book number="28">
+    <book number="28" name="Oséias">
       <chapter number="1">
         <verse number="1">Palavra do Senhor que veio a Oséias, filho de Beeri, durante os reinados de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e de Jeroboão, filho de Jeoás, rei de Israel:</verse>
         <verse number="2">Quando o Senhor começou a falar por meio de Oséias, o Senhor lhe disse: "Vá, tome uma mulher adúltera e filhos da infidelidade, porque a nação é culpada do mais vergonhoso adultério por afastar-se do Senhor".</verse>
@@ -24102,7 +24102,7 @@
         <verse number="9">Quem é sábio? Aquele que considerar essas coisas. Quem tem discernimento? Aquele que as compreender. Os caminhos do Senhor são justos; os justos andam neles, mas os rebeldes neles tropeçam.</verse>
       </chapter>
     </book>
-    <book number="29">
+    <book number="29" name="Joel">
       <chapter number="1">
         <verse number="1">A palavra do Senhor que veio a Joel, filho de Petuel.</verse>
         <verse number="2">Ouçam isto, anciãos; escutem, todos os habitantes do país. Já aconteceu algo assim nos seus dias? Ou nos dias dos seus antepassados?</verse>
@@ -24183,7 +24183,7 @@
         <verse number="21">Sua culpa de sangue, ainda não perdoada, eu a perdoarei. " O Senhor habita em Sião!</verse>
       </chapter>
     </book>
-    <book number="30">
+    <book number="30" name="Amós">
       <chapter number="1">
         <verse number="1">Palavras que Amós, criador de ovelhas em Tecoa, recebeu em visões, a respeito de Israel dois anos antes do terremoto. Nesse tempo, Uzias era rei de Judá e Jeroboão, filho de Jeoás, era rei de Israel.</verse>
         <verse number="2">Ele disse: "O SENHOR ruge de Sião e troveja de Jerusalém; secam-se as pastagens dos pastores, e murcha o topo do Carmelo".</verse>
@@ -24349,7 +24349,7 @@
         <verse number="15">Plantarei Israel em sua própria terra, para nunca mais ser desarraigado da terra que lhe dei”, diz o SENHOR, o seu Deus.</verse>
       </chapter>
     </book>
-    <book number="31">
+    <book number="31" name="Obadias">
       <chapter number="1">
         <verse number="1">Visão de Obadias. Assim diz o Soberano, o SENHOR, a respeito de Edom: Nós ouvimos uma mensagem do SENHOR. Um mensageiro foi enviado às nações para dizer: “Levantem-se! Vamos atacar Edom! ”</verse>
         <verse number="2">“Veja! Eu tornarei você pequeno entre as nações. Será completamente desprezado!</verse>
@@ -24374,7 +24374,7 @@
         <verse number="21">Os vencedores subirão ao monte Sião para governar a montanha de Esaú. E o reino será do SENHOR.</verse>
       </chapter>
     </book>
-    <book number="32">
+    <book number="32" name="Jonas">
       <chapter number="1">
         <verse number="1">A palavra do Senhor veio a Jonas, filho de Amitai com esta ordem:</verse>
         <verse number="2">"Vá depressa à grande cidade de Nínive e pregue contra ela, porque a sua maldade subiu até a minha presença".</verse>
@@ -24432,7 +24432,7 @@
         <verse number="11">Contudo, Nínive tem mais de cento e vinte mil pessoas que não sabem nem distinguir a mão direita da esquerda, além de muitos rebanhos. Não deveria eu ter pena dessa grande cidade? "</verse>
       </chapter>
     </book>
-    <book number="33">
+    <book number="33" name="Miqueias">
       <chapter number="1">
         <verse number="1">A palavra do Senhor que veio a Miquéias de Moresete durante os reinados de Jotão, Acaz e Ezequias, reis de Judá; a visão que ele teve acerca de Samaria e de Jerusalém:</verse>
         <verse number="2">Ouçam, todos os povos; prestem atenção, ó terra e todos os que nela habitam; que o Senhor Soberano, do seu santo templo, testemunhe contra vocês.</verse>
@@ -24553,7 +24553,7 @@
         <verse number="20">Mostrarás fidelidade a Jacó, e bondade a Abraão, conforme prometeste sob juramento aos nossos antepassados, na antigüidade.</verse>
       </chapter>
     </book>
-    <book number="34">
+    <book number="34" name="Naum">
       <chapter number="1">
         <verse number="1">Advertência contra Nínive. Livro da visão de Naum, de Elcós.</verse>
         <verse number="2">O SENHOR é Deus zeloso e vingador! O SENHOR é vingador! Seu furor é terrível! O SENHOR executa vingança contra os seus adversários e manifesta o seu furor contra os seus inimigos.</verse>
@@ -24608,7 +24608,7 @@
         <verse number="19">Não há cura para a sua chaga; a sua ferida é mortal. Quem ouve notícias a seu respeito bate palmas pela sua queda, pois, quem não sofreu a sua crueldade sem limites?</verse>
       </chapter>
     </book>
-    <book number="35">
+    <book number="35" name="Habacuque">
       <chapter number="1">
         <verse number="1">Advertência do profeta Habacuque.</verse>
         <verse number="2">Até quando, Senhor, clamarei por socorro, sem que tu ouças? Até quando gritarei a ti: "Violência! " sem que tragas salvação?</verse>
@@ -24672,7 +24672,7 @@
         <verse number="19">O Senhor Soberano é a minha força; ele faz os meus pés como os do cervo; ele me habilita a andar em lugares altos. Para o mestre de música. Para os meus instrumentos de cordas.</verse>
       </chapter>
     </book>
-    <book number="36">
+    <book number="36" name="Sofonias">
       <chapter number="1">
         <verse number="1">Palavra do Senhor que veio a Sofonias, filho de Cuchi, neto de Gedalias, bisneto de Amarias e trineto de Ezequias, durante o reinado de Josias, filho de Amom, rei de Judá:</verse>
         <verse number="2">"Destruirei todas as coisas na face da terra"; palavra do Senhor.</verse>
@@ -24733,7 +24733,7 @@
         <verse number="20">Naquele tempo eu ajuntarei vocês; naquele tempo os trarei para casa. Eu lhes darei honra e louvor entre todos os povos da terra, quando eu restaurar a sua sorte diante dos seus próprios olhos", diz o Senhor.</verse>
       </chapter>
     </book>
-    <book number="37">
+    <book number="37" name="Ageu">
       <chapter number="1">
         <verse number="1">No primeiro dia do sexto mês do segundo ano do reinado de Dario, a palavra do Senhor veio por meio do profeta Ageu ao governador de Judá, Zorobabel, filho de Sealtiel, e ao sumo sacerdote Josué, filho de Jeozadaque, dizendo:</verse>
         <verse number="2">"Assim diz o Senhor dos Exércitos: Este povo afirma: ‘Ainda não chegou o tempo de reconstruir a casa do Senhor’ ".</verse>
@@ -24777,7 +24777,7 @@
         <verse number="23">"Naquele dia", declara o Senhor dos Exércitos, "eu o tomarei, meu servo Zorobabel, filho de Sealtiel", declara o Senhor, "e farei de você um anel de selar, porque o tenho escolhido", declara o Senhor dos Exércitos.</verse>
       </chapter>
     </book>
-    <book number="38">
+    <book number="38" name="Zacarias">
       <chapter number="1">
         <verse number="1">No oitavo mês do segundo ano do reinado de Dario, a palavra do Senhor veio ao profeta Zacarias, filho de Berequias e neto de Ido:</verse>
         <verse number="2">"O Senhor muito se irou contra os seus antepassados.</verse>
@@ -25018,7 +25018,7 @@
         <verse number="21">Cada panela de Jerusalém e de Judá será separada para o Senhor dos Exércitos, e todos os que vierem sacrificar pegarão panelas e cozinharão nelas. E a partir daquele dia, nunca mais haverá comerciantes no templo do Senhor dos Exércitos.</verse>
       </chapter>
     </book>
-    <book number="39">
+    <book number="39" name="Malaquias">
       <chapter number="1">
         <verse number="1">Uma advertência: a palavra do Senhor contra Israel, por meio de Malaquias.</verse>
         <verse number="2">"Eu sempre os amei", diz o Senhor. "Mas vocês perguntam: ‘De que maneira nos amaste? ’ "Não era Esaú irmão de Jacó? ", declara o Senhor. "Todavia eu amei Jacó,</verse>
@@ -25085,7 +25085,7 @@
     </book>
   </testament>
   <testament name="New">
-    <book number="40">
+    <book number="40" name="Mateus">
       <chapter number="1">
         <verse number="1">Registro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão:</verse>
         <verse number="2">Abraão gerou Isaque; Isaque gerou Jacó; Jacó gerou Judá e seus irmãos;</verse>
@@ -26214,7 +26214,7 @@
         <verse number="20">ensinando-os a obedecer a tudo o que eu lhes ordenei. E eu estarei sempre com vocês, até o fim dos tempos".</verse>
       </chapter>
     </book>
-    <book number="41">
+    <book number="41" name="Marcos">
       <chapter number="1">
         <verse number="1">Princípio do evangelho de Jesus Cristo, o Filho de Deus.</verse>
         <verse number="2">Conforme está escrito no profeta Isaías: "Enviarei à tua frente o meu mensageiro; ele preparará o teu caminho"—</verse>
@@ -26926,7 +26926,7 @@
         <verse number="20">Então, os discípulos saíram e pregaram por toda parte; e o Senhor cooperava com eles, confirmando-lhes a palavra com os sinais que a acompanhavam.</verse>
       </chapter>
     </book>
-    <book number="42">
+    <book number="42" name="Lucas">
       <chapter number="1">
         <verse number="1">Muitos já se dedicaram a elaborar um relato dos fatos que se cumpriram entre nós,</verse>
         <verse number="2">conforme nos foram transmitidos por aqueles que desde o início foram testemunhas oculares e servos da palavra.</verse>
@@ -28127,7 +28127,7 @@
         <verse number="53">E permaneciam constantemente no templo, louvando a Deus.</verse>
       </chapter>
     </book>
-    <book number="43">
+    <book number="43" name="João">
       <chapter number="1">
         <verse number="1">No princípio era aquele que é a Palavra. Ele estava com Deus, e era Deus.</verse>
         <verse number="2">Ela estava com Deus no princípio.</verse>
@@ -29050,7 +29050,7 @@
         <verse number="25">Jesus fez também muitas outras coisas. Se cada uma delas fosse escrita, penso que nem mesmo no mundo inteiro haveria espaço suficiente para os livros que seriam escritos.</verse>
       </chapter>
     </book>
-    <book number="44">
+    <book number="44" name="Atos">
       <chapter number="1">
         <verse number="1">Em meu livro anterior, Teófilo, escrevi a respeito de tudo o que Jesus começou a fazer e a ensinar,</verse>
         <verse number="2">até o dia em que foi elevado ao céu, depois de ter dado instruções por meio do Espírito Santo aos apóstolos que havia escolhido.</verse>
@@ -30115,7 +30115,7 @@
         <verse number="31">Pregava o Reino de Deus e ensinava a respeito do Senhor Jesus Cristo, abertamente e sem impedimento algum.</verse>
       </chapter>
     </book>
-    <book number="45">
+    <book number="45" name="Romanos">
       <chapter number="1">
         <verse number="1">Paulo, servo de Cristo Jesus, chamado para ser apóstolo, separado para o evangelho de Deus,</verse>
         <verse number="2">o qual foi prometido por ele de antemão por meio dos seus profetas nas Escrituras Sagradas,</verse>
@@ -30582,7 +30582,7 @@
         <verse number="27">ao único Deus sábio seja dada glória para todo o sempre, por meio de Jesus Cristo. Amém.</verse>
       </chapter>
     </book>
-    <book number="46">
+    <book number="46" name="1 Coríntios">
       <chapter number="1">
         <verse number="1">Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,</verse>
         <verse number="2">à igreja de Deus que está em Corinto, aos santificados em Cristo Jesus e chamados para serem santos, juntamente com todos os que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:</verse>
@@ -31053,7 +31053,7 @@
         <verse number="24">Recebam o amor que tenho por todos vocês em Cristo Jesus. Amém.</verse>
       </chapter>
     </book>
-    <book number="47">
+    <book number="47" name="2 Coríntios">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Timóteo, à igreja de Deus que está em Corinto, juntamente com todos os santos de toda a Acaia:</verse>
         <verse number="2">A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -31338,7 +31338,7 @@
         <verse number="14">A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo sejam com todos vocês.</verse>
       </chapter>
     </book>
-    <book number="48">
+    <book number="48" name="Gálatas">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo enviado, não da parte de homens nem por meio de pessoa alguma, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dos mortos,</verse>
         <verse number="2">e todos os irmãos que estão comigo, às igrejas da Galácia:</verse>
@@ -31501,7 +31501,7 @@
         <verse number="18">Irmãos, que a graça de nosso Senhor Jesus Cristo seja com o espírito de vocês. Amém.</verse>
       </chapter>
     </book>
-    <book number="49">
+    <book number="49" name="Efésios">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus que estão em Éfeso:</verse>
         <verse number="2">A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -31670,7 +31670,7 @@
         <verse number="24">A graça seja com todos os que amam a nosso Senhor Jesus Cristo com amor incorruptível.</verse>
       </chapter>
     </book>
-    <book number="50">
+    <book number="50" name="Filipenses">
       <chapter number="1">
         <verse number="1">Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, juntamente com os bispos e diáconos:</verse>
         <verse number="2">A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -31784,7 +31784,7 @@
         <verse number="23">A graça do Senhor Jesus Cristo seja com o espírito de vocês. Amém.</verse>
       </chapter>
     </book>
-    <book number="51">
+    <book number="51" name="Colossenses">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Timóteo,</verse>
         <verse number="2">aos santos e fiéis irmãos em Cristo que estão em Colossos: A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</verse>
@@ -31889,7 +31889,7 @@
         <verse number="18">Eu, Paulo, escrevo esta saudação de próprio punho. Lembrem-se das minhas algemas. A graça seja com vocês.</verse>
       </chapter>
     </book>
-    <book number="52">
+    <book number="52" name="1 Tessalonicenses">
       <chapter number="1">
         <verse number="1">Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus Pai e no Senhor Jesus Cristo: A vocês, graça e paz da parte de Deus e de nosso Senhor Jesus Cristo.</verse>
         <verse number="2">Sempre damos graças a Deus por todos vocês, mencionando-os em nossas orações.</verse>
@@ -31990,7 +31990,7 @@
         <verse number="28">A graça de nosso Senhor Jesus Cristo seja com vocês.</verse>
       </chapter>
     </book>
-    <book number="53">
+    <book number="53" name="2 Tessalonicenses">
       <chapter number="1">
         <verse number="1">Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai e no Senhor Jesus Cristo:</verse>
         <verse number="2">A vocês, graça e paz da parte de Deus Pai e do Senhor Jesus Cristo.</verse>
@@ -32045,7 +32045,7 @@
         <verse number="18">A graça de nosso Senhor Jesus Cristo seja com todos vocês.</verse>
       </chapter>
     </book>
-    <book number="54">
+    <book number="54" name="1 Timóteo">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, a nossa esperança,</verse>
         <verse number="2">a Timóteo, meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, o nosso Senhor.</verse>
@@ -32172,7 +32172,7 @@
         <verse number="21">professando-o, alguns desviaram-se da fé. A graça seja com vocês.</verse>
       </chapter>
     </book>
-    <book number="55">
+    <book number="55" name="2 Timóteo">
       <chapter number="1">
         <verse number="1">Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,</verse>
         <verse number="2">a Timóteo, meu amado filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor.</verse>
@@ -32265,7 +32265,7 @@
         <verse number="22">O Senhor seja com o seu espírito. A graça seja com vocês.</verse>
       </chapter>
     </book>
-    <book number="56">
+    <book number="56" name="Tito">
       <chapter number="1">
         <verse number="1">Paulo, servo de Deus e apóstolo de Jesus Cristo para levar os eleitos de Deus à fé e ao conhecimento da verdade que conduz à piedade,</verse>
         <verse number="2">fé e conhecimento que se fundamentam na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos.</verse>
@@ -32319,7 +32319,7 @@
         <verse number="15">Todos os que estão comigo lhe enviam saudações. Saudações àqueles que nos amam na fé. A graça seja com todos vocês.</verse>
       </chapter>
     </book>
-    <book number="57">
+    <book number="57" name="Filemom">
       <chapter number="1">
         <verse number="1">Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, a você, Filemom, nosso amado cooperador,</verse>
         <verse number="2">à irmã Áfia, a Arquipo, nosso companheiro de lutas, e à igreja que se reúne com você em sua casa.</verse>
@@ -32348,7 +32348,7 @@
         <verse number="25">A graça do Senhor Jesus Cristo seja com o espírito de todos vocês.</verse>
       </chapter>
     </book>
-    <book number="58">
+    <book number="58" name="Hebreus">
       <chapter number="1">
         <verse number="1">Há muito tempo Deus falou muitas vezes e de várias maneiras aos nossos antepassados por meio dos profetas,</verse>
         <verse number="2">mas nestes últimos dias falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio de quem fez o universo.</verse>
@@ -32679,7 +32679,7 @@
         <verse number="25">A graça seja com todos vocês.</verse>
       </chapter>
     </book>
-    <book number="59">
+    <book number="59" name="Tiago">
       <chapter number="1">
         <verse number="1">Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos dispersas entre as nações: Saudações.</verse>
         <verse number="2">Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações,</verse>
@@ -32799,7 +32799,7 @@
         <verse number="20">lembrem-se disso: Quem converte um pecador do erro do seu caminho, salvará a vida dessa pessoa e fará que muitíssimos pecados sejam perdoados.</verse>
       </chapter>
     </book>
-    <book number="60">
+    <book number="60" name="1 Pedro">
       <chapter number="1">
         <verse number="1">Pedro, apóstolo de Jesus Cristo, aos eleitos de Deus, peregrinos dispersos no Ponto, na Galácia, na Capadócia, na província da Ásia e na Bitínia,</verse>
         <verse number="2">escolhidos de acordo com a pré-conhecimento de Deus Pai, pela obra santificadora do Espírito, para a obediência a Jesus Cristo e a aspersão do seu sangue: Graça e paz lhes sejam multiplicadas.</verse>
@@ -32916,7 +32916,7 @@
         <verse number="14">Saúdem uns aos outros com beijo de santo amor. Paz a todos vocês que estão em Cristo.</verse>
       </chapter>
     </book>
-    <book number="61">
+    <book number="61" name="2 Pedro">
       <chapter number="1">
         <verse number="1">Simão Pedro, servo e apóstolo de Jesus Cristo, àqueles que, mediante a justiça de nosso Deus e Salvador Jesus Cristo, receberam conosco uma fé igualmente valiosa:</verse>
         <verse number="2">Graça e paz lhes sejam multiplicadas, pelo pleno conhecimento de Deus e de Jesus, o nosso Senhor.</verse>
@@ -32985,7 +32985,7 @@
         <verse number="18">Cresçam, porém, na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória, agora e para sempre! Amém.</verse>
       </chapter>
     </book>
-    <book number="62">
+    <book number="62" name="1 João">
       <chapter number="1">
         <verse number="1">O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam — isto proclamamos a respeito da Palavra da vida.</verse>
         <verse number="2">A vida se manifestou; nós a vimos e dela testemunhamos, e proclamamos a vocês a vida eterna, que estava com o Pai e nos foi manifestada.</verse>
@@ -33102,7 +33102,7 @@
         <verse number="21">Filhinhos, guardem-se dos ídolos.</verse>
       </chapter>
     </book>
-    <book number="63">
+    <book number="63" name="2 João">
       <chapter number="1">
         <verse number="1">O presbítero à senhora eleita e aos seus filhos, a quem amo na verdade, — e não apenas eu os amo, mas também todos os que conhecem a verdade —</verse>
         <verse number="2">por causa da verdade que permanece em nós e estará conosco para sempre.</verse>
@@ -33119,7 +33119,7 @@
         <verse number="13">Os filhos da sua irmã eleita lhe enviam saudações.</verse>
       </chapter>
     </book>
-    <book number="64">
+    <book number="64" name="3 João">
       <chapter number="1">
         <verse number="1">O presbítero ao amado Gaio, a quem amo na verdade.</verse>
         <verse number="2">Amado, oro para que você tenha boa saúde e tudo lhe corra bem, assim como vai bem a sua alma.</verse>
@@ -33138,7 +33138,7 @@
         <verse number="15">A paz seja com você. Os amigos daqui lhe enviam saudações. Saúde os amigos daí, um por um.</verse>
       </chapter>
     </book>
-    <book number="65">
+    <book number="65" name="Judas">
       <chapter number="1">
         <verse number="1">Judas, servo de Jesus Cristo e irmão de Tiago, aos que foram chamados, amados por Deus Pai e guardados por Jesus Cristo:</verse>
         <verse number="2">Misericórdia, paz e amor lhes sejam multiplicados.</verse>
@@ -33167,7 +33167,7 @@
         <verse number="25">ao único Deus, nosso Salvador, sejam glória, majestade, poder e autoridade, mediante Jesus Cristo, nosso Senhor, antes de todos os tempos, agora e para todo o sempre! Amém.</verse>
       </chapter>
     </book>
-    <book number="66">
+    <book number="66" name="Apocalipse">
       <chapter number="1">
         <verse number="1">Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que em breve há de acontecer. Ele enviou o seu anjo para torná-la conhecida ao seu servo João,</verse>
         <verse number="2">que dá testemunho de tudo o que viu, isto é, a palavra de Deus e o testemunho de Jesus Cristo.</verse>
