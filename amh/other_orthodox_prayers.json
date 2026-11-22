@@ -4,12 +4,7 @@
     {
       "code": "am",
       "name": "Amharic",
-      "collection_count": 10
-    },
-    {
-      "code": "gez",
-      "name": "Ge’ez",
-      "collection_count": 1
+      "collection_count": 11
     }
   ],
   "collections": [
